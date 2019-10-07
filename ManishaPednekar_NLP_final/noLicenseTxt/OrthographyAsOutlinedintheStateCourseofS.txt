@@ -1,0 +1,6089 @@
+*** START OF THIS PROJECT GUTENBERG EBOOK ORTHOGRAPHY ***
+
+
+
+
+Produced by Kevin Handy, John Hagerson, Irma Spehar and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+                              ORTHOGRAPHY
+                          AS OUTLINED IN THE
+                  STATE COURSE OF STUDY FOR ILLINOIS.
+
+                       SEVENTH AND EIGHTH YEARS.
+
+                          BY ELMER W. CAVINS,
+      TEACHER OF ORTHOGRAPHY IN ILLINOIS STATE NORMAL UNIVERSITY.
+
+                 INTRODUCTION BY DR. EDWIN C. HEWETT.
+
+                    SECOND EDITION—JANUARY, 1906.
+
+                      _PUBLISHED BY C. M. PARKER,
+                        TAYLORVILLE, ILLINOIS._
+
+                   Copyright, 1904, by C. M. Parker.
+
+
+
+
+                               PREFACE.
+
+
+This book is prepared for teachers and pupils who use the Illinois
+State Course of Study. The outline in Orthography for the Seventh and
+Eighth Years is the basis of all that is included herein. Three fifths
+or more of this work is word analysis which, valuable as it is,
+teachers as a rule are unable to teach without the aid of a text,
+never having learned much of it themselves. What, for example, can the
+average teacher unaided do toward writing a list of words to be
+analyzed which contain the root _ann_, meaning year? He might turn in
+the dictionary to _annual_, _anniversary_, and _annuity_, but he must
+fall back on his acquired knowledge for such as, _biennial_,
+_centennial_, _millennium_, _perennial_, and _superannuate_. And
+having the list, very many teachers, as well as pupils, need help in
+the analysis.
+
+The aim of this book has been to set down in an orderly and convenient
+form such facts as are needed by those who follow the State Course of
+Study.
+
+Emphasis has been placed upon word analysis. The author believes that
+this has more value in education than is generally attributed to it.
+When Mr. Kennedy named his work on word analysis “What Words Say”, he
+gave it the best possible title. Composite words have a wealth of
+meaning; each syllable is significant. And, as a rule, only to those
+who can read this significance does the word yield its full meaning.
+Accuracy is the mark of a scholar. Accuracy in speech and in the
+understanding of speech cannot be attained by those whose knowledge of
+words is vague and general. Pupils should early learn how to interpret
+_what words say_, and to discriminate carefully in the use of words,
+for these are the tools which they are to use in all the various
+departments for acquiring knowledge.
+
+Normal, Ill., Aug. 30, 1904. E. W. CAVINS.
+
+
+
+
+                             INTRODUCTION
+
+                        BY DR. EDWIN C. HEWETT.
+
+
+I have long thought that the careful, discriminating study of words is
+much neglected in our schools. And I am glad to approve, and help to
+forward, anything that will promote such a study.
+
+Not only will such a study improve a person's language greatly, but it
+will, at the same time, do much to improve the clearness and precision
+of his thinking; thought and language have a reciprocal effect.
+
+If a child, while young, can be made to be interested in words
+themselves,—their origin, their exact meaning, their relations to
+each other and some of the changes in their meaning which result from
+their use,—he will be likely to retain that interest through life; it
+will be more likely to increase than to diminish.
+
+It seems often to be assumed that a student can do nothing profitably
+with the study of words made up from Greek and Latin roots till he has
+acquired some mastery of those languages. But I know from experience
+and much observation that this is not true. Why should it be? Must one
+master Greek and Latin before he can understand that, in English
+words, _graph_ means write; _ge_ means earth; _phone_ means sound;
+_cur_ means run; _fin_ means limit; _port_ means carry, etc.?
+
+And then having learned the meaning of the prefixes and suffixes, is
+it preposterous to train him to know the etymological significance of
+a few hundred words by showing him how they are built up?
+
+Of course, we know that many words in common use have shades of
+meaning quite different from, and in some cases almost opposite to,
+their literal significance. But will not the student be better able to
+understand these derived meanings by knowing their literal
+significance than in any other way? At any rate, I am fully persuaded
+that such a study of words as this book proposes can be made very
+profitable to those pupils for whose use it is prepared.
+
+The teacher will find, however, that the teaching of this subject will
+require much careful labor on his part. The mere learning of the
+meaning of prefixes and suffixes and of the roots themselves, with the
+brief remarks on the meaning of some of the words, will need to be
+supplemented by a careful mastery of it all on his part. And to this
+must be added much thought of his own, together with careful research
+in the great dictionaries. But to the earnest and intelligent teacher,
+such thought and research will yield very rich fruit in his own
+thinking, and in his use of English speech.
+
+I cheerfully commend the book as a move in the right direction; and as
+adapted, in my opinion, to do much to supply a serious lack in the
+present work of the schools.
+
+Normal, Ill., Aug. 18, 1904. E. C. H.
+
+
+
+
+                       SUGGESTIONS TO TEACHERS.
+
+
+1. From the lists given in this book omit such words as in your
+opinion are beyond the vocabulary of your pupils.
+
+2. All words given for the first month's work are either defined or
+illustrated below the lists. This is done to help make clear the
+method of showing their _literal_ significance. Further along in each
+year's work only the most difficult words are explained. Insist that
+pupils in every case where it is possible define or illustrate so as
+to show the _literal_ meaning, else much of the value of the study is
+lost.
+
+And, moreover, the ordinary, or current meaning, _where it differs
+from the literal_, should be given. Very many of the words have
+various uses. Thorough work requires that these be illustrated. This
+necessitates a free use of the dictionary.
+
+It is strongly urged that the pupils (with the aid of the teacher when
+necessary) try to find _an appropriate sentence to illustrate each
+word_ and write the same in an orderly way in a note book for the
+purpose.
+
+In work of this kind a teacher should not underrate the value of
+reviews. By this means fix facts on the minds of your pupils,
+especially the meanings of roots and prefixes. Since these meanings
+are given in a single word, reviews may proceed rapidly.
+
+One convenient method of recitation in this subject is to send pupils
+to the blackboard without their books, assign them by turns words to
+be analyzed according to the examples given under “Directions to
+Pupils”, and then let each pupil read to the class what he has written
+on the board.
+
+
+
+
+                         DIRECTIONS TO PUPILS.
+
+
+Given in the seventh and eighth years' work of the State Course of
+Study are 45 prefixes, 64 roots, and 33 suffixes,—in all 142 elements
+or component parts of words. In this book a list of words is furnished
+to illustrate each element, the average number of words in each list
+being about eleven, and the total number of different words analyzed,
+or partially analyzed, is over 1200.
+
+
+                          TO ANALYZE A WORD.
+
+1. Name its component parts—root, prefix, and suffix—and give the
+literal meaning of each.
+
+2. Combine these meanings in a definition, _supplying additional words
+if necessary_, to make the sense complete. In exceptional cases,
+however, the exact literal meanings of the parts cannot be put
+together in a good definition. One or more of the parts must then be
+omitted entirely, or represented by words which are not exactly
+literal.
+
+3. Give an illustration of the use of the word.
+
+(Caution: Carefully distinguish verbs, adjectives and nouns. Do not
+define adjectives as nouns or verbs, or vice versa. Do not, for
+illustration, say _audible_ is _that which_ can be _heard_; but rather
+say _audible_ means _capable of_ being _heard_.)
+
+
+                               EXAMPLES.
+
+avert: (1) _a_, away + _vert_, turn.
+       (2) To _turn away_; to ward off.
+       (3) The evils which exist are necessary to _avert_ greater evils.
+
+deify: (1) _dei_, god + _fy_, to make.
+       (2) To _make_ a _god_ of; to praise and revere as if a deity.
+       (3) The people of India _deify_ the Ganges River.
+
+hostile: (1)_host_, enemy + _ile_, belonging to.
+         (2) _Belonging to_ or having the characteristics of an _enemy_.
+         (3) Yon tower which rears its head so high invites the
+             _hostile_ winds.
+
+portable: (1) _port_, carry + _able_, capable of.
+          (2) _capable of_ being _carried_ or moved from place to place;
+              not stationary.
+          (3) A _portable_ photograph gallery stopped for three
+              days at the cross-roads near my home.
+
+benefactor: (1) _bene_, good + _fact_, make, do + _or_, one who.
+            (2) _One who does good_; especially one who makes a
+                charitable donation.
+            (3) “He is a true _benefactor_ and alone worthy of honor who
+                brings comfort where before was wretchedness, who dries
+                the tear of sorrow.”
+
+A careful study of the five examples given above will reveal that to
+analyze words a pupil must—
+
+1. Learn some _facts_—meanings of the component parts of words.
+
+2. Be careful in putting these facts together to make a sensible
+definition.
+
+3. Use the dictionary to find the ordinary, or current, use of a word.
+
+4. Gather illustrations. This is not easy, but it should not be
+neglected, for it is the most practical feature of word analysis.
+Pupils should help each other, and the teacher may contribute when his
+help is needed. One good illustration for a difficult word might
+suffice the entire class.
+
+
+
+
+                               PART ONE
+
+                            Word Analysis.
+
+                             SEVENTH YEAR.
+
+
+                             FIRST MONTH.
+
+
+#a, ab, abs# = from, away.
+
+1. a _vert_, turn
+2. ab _brevi_ ate, short
+3. ab _duct_, lead
+4. ab _ject_, cast
+5. ab _lut_ ion, wash
+6. ab _origin_ es, beginning
+7. ab _rupt_, break
+8. ab _sorb_, suck in
+9. ab _solve_, loosen
+10. ab _use_, use.
+
+2. To _shorten_, to take _from_; to make briefer.
+
+3. To _lead away_; to carry off by force; to kidnap.
+
+4. An _abject_ person is one sunk to low condition (as if _cast from_
+the society of others).
+
+5. An _ablution_ is a _washing_ or _cleansing_; especially a religious
+rite.
+
+6. The inhabitants of a country _from_ the _beginning_. The earliest
+inhabitants of which anything is known.
+
+7. _Broken_ or appearing as if broken _away_ or off; as an _abrupt_
+cliff.
+
+8. To _suck_ up; to drink in. A brick will _absorb_ a pint of water.
+
+9. To _loosen_ or set free, as _from_ some duty or obligation
+
+10. To divert _from_ the proper _use_; to misuse.
+
+
+#ambi, (amphi)# = both, on both sides, around.
+
+1. ambi _dextr_ ous, right hand
+2. ambi _ti_ on, go
+3. amphi _bi_ ous, life
+4. amphi _theatre_, view.
+
+1. _Having_ skill with _both_ hands (as if both were _right hands_).
+
+2. A _going around_ or about, as of a candidate soliciting votes;
+eager for favors; strongly desirous.
+
+3. _Living both_ on land and in water. Frogs, turtles, crocodiles,
+seals, otters, and beavers are _amphibious_.
+
+4. An _amphitheatre_ is a building built circular so that spectators
+may _view_ a performance from _both sides_ or from all _around_.
+
+
+#bene# = well, good.
+
+1. bene _dict_ ion, speak
+2. bene _fact_ ion, do
+3. bene fact _or_, one who
+4. bene _fic_ ent, do
+5. bene fic _ial_, pertaining to
+6. bene _fit_, do
+7. bene _vol_ ent, will
+8. beni _gn_, (genus) kind
+9. beni gn _ant_, being
+10. _nota_ bene, note
+
+1. The _act of speaking well_ to or of; a blessing pronounced at the
+close of divine service.
+
+2. The _act of doing_ good; making a charitable donation.
+
+4. _Doing_ or effecting _good_; performing acts of kindness.
+
+5. _Pertaining to_ what _does good_, is useful or profitable.
+
+6. A _good_ deed _done_; an act of kindness.
+
+7. _Willing_ to _do good_; well-wishing; charitable.
+
+8. _Good_ and _kind_ of heart; expressive of gentleness or kindness.
+Literally, of a _good kind_.
+
+9. _Being kind_ and gracious.
+
+10. _Note well_; observe carefully; take notice. Usually abbreviated
+to N. B.
+
+
+#circum# = around.
+
+1. circum _fer_ ence, carry
+2. circum _flex_, bend
+3. circum _locut_ ion, speak
+4. circum _navig_ ate, sail
+5. circum _scribe_, write, draw
+6. circum _spect_, look
+7. circum _sta_ nce, stand
+8. circum _vent_, come.
+
+1. Think the _circumference_ in the process of making; _carry_ the
+crayon _around_ the circle to produce the _circumference_.
+
+2. A _bending around_; a wave or bend of the voice embracing both a
+rise and a fall on the same syllable.
+
+3. The _act of speaking_ in a _round_ about way; particularly a
+studied indirectness or evasiveness of speech.
+
+4. The _act of sailing around_; especially the earth or globe.
+
+5. To _draw_ a bounding line _round_; hence to mark out the limits of.
+
+6. _Looking around_ on all sides; examining carefully.
+
+7. That which attends or relates to (_stands around_, as it were,) an
+event, a person or a thing.
+
+8. To _circumvent_ one in any enterprise is to _come around_ in an
+unexpected way for the purpose of gaining an advantage.
+
+
+#contra, (contro, counter)# = against
+
+1. contra _dict_, speak
+2. contra _vene_, come
+3. contra _st_, stand
+4. counter _act_, do
+5. counter _balance_, scales
+6. contro _versy_, turn
+
+1. To _speak against_; to assert the opposite of.
+
+2. To _come against_; to oppose.
+
+3. To _stand against_; to set in opposition to, as two or more objects
+of a like kind with a view to showing their difference.
+
+4. To act _against_; to _do_ what hinders.
+
+5. To _weigh against_ with equal weight; equal weight, power or
+influence acting in opposition to.
+
+6. A _turning against_; debate, contention.
+
+
+#ann# = year.
+
+1. annu _al_, relating to
+2. anni _vers_ ary, turn
+3. annu _ity_, that which
+4. _bi_ ennial, two
+5. _cent_ ennial, hundred
+6. _mille_ nnium, thousand
+7. _per_ ennial, through
+8. _super_ annuate, beyond
+
+1. _Relating to_ a _year_; yearly.
+
+2. _That_ day _which returns_ once a _year_ commemorating some event.
+
+3. A stated sum of money payable _yearly_.
+
+4. Happening once in _two years_; lasting two years.
+
+5. Consisting of or lasting a _hundred years_. Happening every hundred
+years.
+
+6. A period or interval of a _thousand years_.
+
+7. _Throughout_ the _year_; lasting, perpetual.
+
+8. Condition of being _beyond_ the _years_ of active service; impaired
+or disabled by length of years.
+
+
+#art# = skill.
+
+1. art _ist_, one who
+2. arti _fic_ ial, make
+3. artist _ic_, relating to
+4. art _less_, without
+
+1. _One who_ is _skilled_ or adept in any of the fine arts.
+
+2. Produced or _made_ by _art_ or _skill_ rather than by nature.
+
+3. _Relating_ to _skill_ in any field.
+
+4. _Without skill_; especially without skill in fraud or deceit.
+
+
+#aster, (astr)# = star.
+
+1. aster _isk_, little
+2. aster _oid_, form
+3. astr _olog_ er, speak.
+4. astr _onomy_, distribute
+5. _dis_ aster, apart
+
+1. Literally, a _little star_; a mark like a star used to refer to a
+note in the margin.
+
+2. _Formed_ like a _star_.
+
+3. _One who speaks_ about the _stars_; one who foretells events by the
+stars, or interprets the supposed influence of the stars.
+
+4. The science which treats of the _distribution_, arrangement and
+size of heavenly bodies (_stars_).
+
+5. An unfavorable aspect of a _star_ or planet, hence an ill portent,
+a calamity.
+
+
+#aud# = hear.
+
+1. aud _ible_, capable of
+2. audit _ory_, pertaining to
+3. audit _ors_, those who
+4. _in_ audible, not
+
+1. _Capable of_ being _heard_.
+
+2. _Pertaining to_ the _hearing_, or the sense of hearing.
+
+3. _Those who hear_; people who assemble for the purpose of hearing
+music or discourse.
+
+4. _Not capable_ of being _heard_; indistinct.
+
+
+                             SECOND MONTH.
+
+#dis (dif)# = apart, from, away.
+
+1. dis _burse_, purse
+2. dis _cord_, heart
+3. dis _cuss_, shake
+4. dif _fer_, bear
+5. dif _fuse_, pour
+6. dis _loc_ ate, place
+7. dis _miss_, send
+8. dis _pel_, drive
+9. dis _pose_, put
+10. dis _rupt_, break
+11. dis _sect_, cut
+12. dis _tend_, stretch
+
+1. To _disburse_ money is to pay it out (_from_ one's _purse_).
+
+2. (Literally, _hearts apart_.) Want of harmony; not agreeing in
+opinion, or in action.
+
+3. The _discussion_ of a question _shakes_ it _apart_, for a more
+thorough examination.
+
+4. When two minds _differ_, one _bears_ in one direction, the other in
+another, and thus they _bear apart_. They do not agree.
+
+5. To _pour_ out and cause to spread _apart_, as a fluid; to
+circulate; to scatter.
+
+6. To _place apart_ or out of proper position.
+
+7. To _dismiss_ a congregation is to _send_ the people (or allow them
+to go) _apart_ to their homes.
+
+8. To _dispel_ fear is to _drive_ it _away_.
+
+9. To _dispose_ of property is to part with it (_put_ it _apart_ from
+one).
+
+10. Rocks are _disrupted_ when _broken apart_.
+
+11. To _dissect_ the eye of an ox is to _cut_ it _apart_, for the
+purpose of examination.
+
+12. To _distend_ is to _stretch apart_ or spread in all directions; to
+dilate, to expand.
+
+
+#extra# = beyond.
+
+1. Extra _ordin_ ary, order, rule (_ary_, relating to). _Relating to_
+what is _beyond_ or out of the common _rule_ or _order_; exceptional,
+unusual.
+
+2. Extra _vag_ ant, _wander_ (_ant_, ing). _Wandering beyond_ bounds
+or out of the regular course; excessive.
+
+
+#inter# = between, among, through.
+
+1. inter _cede_, go
+2. inter _cept_, take
+3. inter _course_, run
+4. inter _ject_ ion, throw
+5. inter _lop_ er, run
+6. inter _mingle_, mix
+7. inter _pose_, place
+8. inter _rogate_, ask
+9. inter _sect_, cut
+10. inter _val_, wall
+11. inter _vene_, come
+12. inter _view_, see
+
+1. To _go between_ parties for the purpose of reconciling those who
+differ; to plead in favor of another.
+
+2. To seize or _take between_ the starting point and destination; as
+to _intercept_ a letter or messenger.
+
+3. Frequent or habitual meeting or contact of one person with another
+(a _running between_, to and fro).
+
+4. An _interjection_ is a word _thrown_ in _between_ other words to
+express emotion or feeling.
+
+5. An _interloper_ is _one who runs_ in _between_ two parties to get
+the advantage which one would obtain from the other. One who
+intercepts and buys a basket of eggs between a farmer's wagon and a
+grocery store would, from the standpoint of the merchant, be an
+_interloper_.
+
+6. To _mix between_ or together.
+
+7. To protect the eyes from a strong light _interpose_ (_place
+between_ the eyes and light) a shade.
+
+8. To _interrogate_ is to question. (The _questions_ come _between_
+the answers.)
+
+9. One line _intersects_ another when it _cuts_ through it, or
+_between_ its parts.
+
+10. An _interval_ is an open space or stretch between things or
+limits. Formerly it meant a space _between walls_.
+
+11. To _come between_ persons, things, or events.
+
+12. A mutual exchange of _views between_ two or more people.
+
+
+#non# = not, un.
+
+The prefix _non-_ may be joined to the leading word by means of a
+hyphen, or, in most cases, the hyphen may be dispensed with.
+
+1. noncommittal
+2. non compos mentis
+3. nonconductor
+4. nondescript
+5. nonentity
+6. nonessential
+7. nonpareil
+8. non-payment
+9. nonplus
+10. non-resident
+11. nonsense
+12. nonsuit
+
+2. _Com_, with + _pos_, power + _mentis_, of mind. Literally, _not
+with power of mind_. Not of sound mind; not capable, mentally, of
+managing one's own affairs.
+
+4. That which has _not_ been _described_; difficult to describe; new,
+novel, odd.
+
+5. _Entity_ means thing or being; hence a _nonentity_ is _no thing_ or
+nothing. Often applied to a person or thing which counts for little or
+_nothing_.
+
+9. _Plus_ means more. Literally, a person is _nonplused_ when he can
+do _no more_, or go no further; puzzled, confounded, embarrassed.
+
+(It seems unnecessary to append definitions or illustrations to other
+words of the above list.)
+
+
+#per# = through, thoroughly, by.
+
+1. per _ambul_ ate, walk
+2. per _ceive_, take
+3. per _cent_, hundred
+4. per _col_ ate, filter
+5. per _enni_ al, year
+6. per _fect_, make
+7. per _for_ ate, bore
+8. per _form_, form
+9. per _fume_, smoke
+10. per _mit_, let go
+11. per _plex_, entangle
+12. per _secute_, follow
+13. per _sist_, stand
+14. per _vade_, go
+15. per _vert_, turn
+16. per _vi_ ous, way
+
+1. To _walk through_ or over. He got out of bed and _perambulated_ the
+room for some minutes.
+
+2. To _take_ or obtain knowledge _through_ the senses. To _take_ with
+a _thorough_ mental grasp; to understand.
+
+3. _By_ the _hundred_.
+
+4. To pass _through_; as, a _filter_ or strainer.
+
+5. Lasting _through_ the _year_, or through many years.
+
+6. _Thoroughly made_; finished in every part; without blemish or
+defect.
+
+7. To _bore through_; to make holes in; to pierce.
+
+8. To _form thoroughly_; to execute, accomplish, or carry out.
+
+9. “To _perfume_ means literally to _smoke thoroughly_. Hence to
+impregnate or fill with scent or odor.”—_Kennedy._
+
+10. By this _permit_ we may _go through_ the factory.
+
+11. To _entangle thoroughly_. “Love with doubts _perplexes_ still the
+mind.”
+
+12. To _follow_ with persistence or _thoroughness_. To follow close
+after; specifically to afflict or harass on account of adherence to a
+particular creed. The early Christians suffered _persecution_.
+
+13. To take a _thorough stand_; to continue steadily in some state or
+course of action; especially in spite of opposition.
+
+14. To _go through_; to spread throughout the whole.
+
+15. To turn in another direction; to _turn thoroughly_ from a former
+course. “Blessings unused _pervert_ into a waste.”
+
+16. _Having_ a _way through_. “---- to have their way free and
+_pervious_ to all places.”
+
+
+#clud, clus# = shut.
+
+1. close
+2. clos _et_, little
+3. _con_ clude, together
+4. _dis_ close, un
+5. _en_ close, in
+6. _ex_ elude, out
+7. exclus _ion_, act of
+8. _in_ clude, within
+9. _pre_ clude, before
+10. _re_ cluse, back
+11. _se_ clude, aside
+12. se clus _ion_, state of being
+
+1. To _shut_.
+
+2. A _small_ side room in which, clothing and other articles are kept
+_shut_ away from view.
+
+3. To bring to an end. Literally to _shut_ in or _together_
+(obsolete); as, “The body of Christ was _concluded_ in the grave.”
+
+4. To _un-shut_; to open or uncover; to make known.
+
+9. To put an obstacle _before_, or in the way of, in order to _shut_
+out; to prevent or hinder.
+
+10. One who is _shut_ up (or has _shut_ himself _back_) from the world
+or public view.
+
+11. To _shut_ off or keep apart or _aside_, as from company or
+society.
+
+
+#cor, cord# = heart.
+
+1. core
+2. cordi_al_, relating to
+3. _con_ cord, with
+4. cord _ate_, shaped
+5. _dis_ cord, apart
+6. discord _ant_, being
+7. _re_ cord, again
+8. cour _age_, having
+
+1. The _heart_ or innermost part of a thing; as the _core_ of an
+apple.
+
+2. _Relating to_ the _heart_; hearty, sincere.
+
+3. Heart _with heart_; hence unity of sentiment or harmony. “Love
+quarrels oft in _concord_ end.”
+
+4. _Heart shaped_; as a _cordate_ leaf.
+
+5. Heart _apart_ from _heart_; hence disagreement or want of harmony.
+
+6. State of _being_ out of harmony.
+
+7. _Record_; through the Latin _recordari_, to remember (or know
+_again_). To get by _heart_; hence to register; to write or inscribe
+an authentic account of.
+
+8. _Having heart_; hence bravery, calmness, firmness. (The heart is
+accounted the seat of bravery; hence the derivative sense of courage.)
+
+
+#corpus, corpor# = body.
+
+1. corpse
+2. corps (pronounce core)
+3. corpor _al_, relating to
+4. corpu _lent_, full of
+5. incorpor _ate_, make
+6. corpus _cle_, small
+7. corset
+8. _habeas_ corpus. You may have
+
+1. The _body_ only; hence a dead body.
+
+2. A _body_ of soldiers.
+
+3. _Relating to_ the _body_; as _corporal_ punishment.
+
+4. A _corpulent_ person is fleshy; literally _full of body_.
+
+5. To _make into_ a _body_ in the legal sense, so that a number of
+individuals may transact business legally as one person.
+
+6. A _small body_; a minute particle.
+
+7. In the middle ages, a close-fitting _body_ garment, having sleeves
+and skirt.
+
+8. Literally, _you may have the body_. A writ requiring the body of a
+person restrained of liberty to be brought into court that the
+lawfulness of the restraint may be investigated.
+
+
+#cura, curo# = care.
+
+1. cure
+2. cur_able_, capable of
+3. cur_ate_, one who
+4. curi _ous_, full of
+5. _mani_ cure, hand
+6. _ac_ cur ate, to
+7. _pro_ cure, for
+8. _se_ cure, aside
+
+1. To take _care_ of; to restore to health.
+
+2. _Capable of_ being cured or restored by _care_.
+
+3. _One who_ has the _care_ of souls; a parish priest.
+
+4. Formerly, _curious_ meant _full of care_, or careful, nice,
+precise; as, “Men were not _curious_ what syllables or particles they
+used.” Eager to learn; inquisitive.
+
+5. To _care_ for the _hands_ and nails.
+
+6. A thing is made _accurate_ by giving _care to_ it.
+
+7. Literally, to _care for_; to look after; as, “I _procured_ that
+rumor to be spread.” To obtain; to get.
+
+8. _Aside_, or free, from _care_, anxiety, or fear; safe.
+
+
+                             THIRD MONTH.
+
+#pre# = before.
+
+1. pre _amble_, walk
+2. pre _cede_, go
+3. pre ced _ent_, that which
+4. pre _cip_ ice, head
+5. pre _clude_, shut
+6. pre _coc_ ious, cook, ripe
+7. pre _curs_ or, run
+8. pre _destinate_, to determine
+9. pre _dict_, speak
+10. pre _face_, say
+11. pre _fer_, bring
+12. pre _fix_, fasten
+13. pre _judice_, judgment
+14. pre _limin_ ary, threshold
+15. pre _mature_, ripe
+16. pre _monit_ ion, warning
+17. pre _pare_, make ready
+18. pre _posit_ ion, place
+19. pre _poster_ ous, after
+20. pre _scribe_, write
+
+1. The introductory part of a discourse. Formerly _preamble_ meant, to
+_walk_ over _before_hand; as, “I will take a thorough view of those
+who have _preambled_ this by path.”
+
+3. _That which_ has _gone before_. A previous example or usage which
+has, in some measure at least, become established; as, a custom,
+habit, or rule.
+
+4. A _head_long fall; an abrupt descent. Literally, _head_ _fore_most.
+
+5. See second month, page 16.
+
+6. _Ripe_ in understanding at an early age or _before_ due time; as, a
+_precocious_ child.
+
+7. A _precursor_ is a _forerunner_. That which precedes an event and
+indicates its approach.
+
+8. To _determine_ _before_hand by an unchangeable purpose or decree.
+“Whom He did foreknow He also did _predestinate_ to be conformed to
+the image of His Son.”
+
+11. To _prefer_ one thing to another is to _bring_ or set it before
+the other in estimation. To hold in greater liking or esteem.
+
+13. A _prejudgment_ formed without due examination. “_Prejudice_ is
+the child of ignorance.”
+
+14. Literally, _before_ the _threshold_. Preceding or leading up to
+something more important; as _preliminary_ arrangements.
+
+18. A _preposition_ is so called because usually _placed before_ the
+word with which it is phrased.
+
+19. Anything is _preposterous_ when it is contrary to nature, reason,
+or common sense. Literally, having that _last_ which ought to be
+_first_; as, the “cart before the horse”.
+
+20. To lay down _before_hand in _writing_ as a rule of action.
+“_Prescribe_ not us our duties.”
+
+
+#re# = back, again.
+
+1. re _bound_, leap
+2. re _cede_, go
+3. re _claim_, call
+4. re _cluse_, shut
+5. re _cogn_ ize, know
+6. re con _struct_, build
+7. re _course_, run
+8. re _create_, make
+9. re _cruit_, grow
+10. re _cur_, run
+11. re _flect_, bend
+12. re _fresh_, new
+13. re _hash_, chop
+14. re im _burse_, purse
+15. re _ject_, throw
+16. re _juven_ ate, young
+17. re _lapse_, slip
+18. re _late_, carry
+19. re _lease_, loose
+20. re _mit_, send
+21. re _morse_, bite
+22. re _nov_ ate, new
+23. re _pel_, drive
+24. re _plen_ ish, full
+25. re _pulse_, drive
+26. re _sult_, leap
+27. re _sume_, take (up)
+28. re _surrect_ ion, rise
+29. re _tain_, hold
+30. re _tract_, draw
+
+Use each of the above words in a sentence and illustrate its meaning,
+thus: A ball thrown against a brick wall will _rebound_ (_leap back_).
+
+
+#semi# = half.
+
+1. semicircle
+2. semicolon
+3. semidiameter
+4. semilunar
+5. semivowel
+6. semiweekly
+
+
+#super# = over, above, beyond.
+
+1. super _annu_ ate, year
+2. super _cili_ ous, pride
+3. super _fic_ ial, face
+4. super _flu_ ous, flow
+5. super _natur_ al, nature
+6. super _numer_ ary, number
+7. super _pose_, put
+8. super _script_ ion, write
+9. super _struct_ ure, build.
+10. super _vise_, see
+
+1. A _superannuate_ is one who has become impaired or disabled by
+length of years. Specifically, one living _beyond_ the _years_ of
+active service and allowed to retire on a pension.
+
+2. Lofty with _pride_; _over_bearing. “A _supercilious_ nabob of the
+east, haughty and purse-proud.”
+
+3. Literally, not extending below (i. e. in depth _beyond_) the
+sur_face_; shallow. “She despised _superficiality_, and looked deeper
+than the color of things.”
+
+4. _Overflowing_; more than is needed; as, a composition abounding
+with _superfluous_ words.
+
+5. Being _beyond_ or exceeding the powers of _nature_. Miracles were
+performed by _supernatural_ power.
+
+6. _Beyond_ a stated or required _number_; as, a _supernumerary_
+officer in a regiment.
+
+7. To _put over_ or upon; as to _superpose_ one rock upon another.
+
+8. A _superscription_ is a _writing over_ or _upon_; especially an
+address on a letter.
+
+9. A _superstructure_ is something _built over_ something else;
+particularly an edifice in relation to its foundation.
+
+10. To _oversee_; as, to _supervise_ the erection of a house.
+
+
+#tri# = three.
+
+1. tri _angle_, angle
+2. tri _cuspid_, point
+3. tri _cycle_, circle
+4. tri _dent_, tooth
+5. tri _enni_ al, year
+6. tri _gam_ ist, marriage.
+7. tri gon _ometry_, measure
+8. tri _later_ al, side
+9. tri _nomi_ al, term
+10. trio
+11. tri _pod_, foot
+12. tri _sect_, cut
+13. tri _syllable_, syllable
+14. trium _vir_, man
+15. tri _une_, one
+16. tri _via_ l, way
+
+2. A _tricuspid_ tooth has _three points_.
+
+4. A _three-toothed_ or three-pronged spear. Specifically, a fishing
+spear.
+
+    “His nature is too noble for the world;
+     He would not flatter Neptune for his _trident_,
+     Or Jove for his power to thunder.”
+
+6. A _trigamist_ is one who has been _three_ times _married_;
+especially one who has three wives or three husbands at the same time.
+
+7. _Trigonometry_ literally means _three angle measure_. That branch
+of mathematics which treats of the relations of sides and angles of
+triangles, and applies them to other figures.
+
+9. A _trinomial_ in algebra is a quantity consisting of _three terms_.
+
+10. A _trio_ is a musical composition in _three_ parts.
+
+11. A _tripod_ has _three feet_ or legs; as a three-legged table or
+stool, a three-footed kettle or vase.
+
+14. A _triumvir_ is one of _three men_ united in office; specifically
+in ancient Rome.
+
+15. The _triune_ is _three_ in _one_; the three-fold personality of
+one divine being,—Father, Son, and Holy Spirit.
+
+16. _Trivial_ formerly meant, pertaining to _three ways_; where three
+ways or roads cross; of the cross roads; hence, common, commonplace,
+such as may be picked up anywhere; ordinary; trifling; of little
+worth.
+
+
+#due# = lead, draw.
+
+1. _ab_ duct, away
+2 _ad_ duce, to
+3. _aque_ duct, water
+4. _con_ duct, with
+5. _de_ duct, from
+6. duct _ile_, capable of
+7. duke, a leader
+8. _e_ duc ate, out
+9. _in_ duce, into
+10. in duce _ment_, that which
+11. _intro_ duce, into
+12. _pro_ duce, forth
+13. _se_ duce, aside
+14. _re_ duce, back
+
+1. To _lead_ or carry _away_ wrongfully and usually by force; to
+kidnap; as, to _abduct_ a child.
+
+2. To _lead_ or bring _to_; to bring forward or offer as an argument
+in a case. “I too prize facts and shall _adduce_ nothing else.”
+
+3. An _aqueduct_ is a _lead_way or artificial channel for conveying
+_water_.
+
+4. A guide _conducts_ a traveler when he goes _with_ him and, in a
+sense, _leads_ him along a safe route.
+
+5. To _deduct_ is to take _from_; to _draw_ away.
+
+6. A _ductile_ metal is one _capable of_ being _drawn_ into wire; as,
+copper, platinum, steel, etc.
+
+8. To develop mentally and morally by instruction. _Educate_ literally
+means to _lead_ forth, to _draw out_.
+
+11. An _introduction_ is the initial step which _leads_ people _into_
+one another's acquaintance.
+
+14. (1) To _lead_ or bring _back_ to a former state; as,
+
+    “It were but right
+    And equal to _reduce_ me to my dust.”
+
+(2) To bring to any specific state or form.
+
+
+#fac, fact# = do, make.
+
+(fec, fic, fy, fea, fash are variations.)
+
+1. fact
+2. fact _ory_, place where
+3. facil _ity_, quality of
+4. _bene_ fact or, good
+5. _manu_ fact ure, hand
+6. _ef_ fect, (ex.) out
+7. _per_ fect, thoroughly
+8. _im_ perfect, not
+9. _arti_ ficial, skill
+10. _bene_ ficial, good
+11. _sacri_ fice, sacred
+12. _paci_ fic, peace
+13. feat
+14. _de_ feat, un
+15. feas _ible_, capable of
+16. fashion.
+
+1. A _fact_ is something _done_ or brought to pass.
+
+3. _Quality_ of being easily _done_.
+
+5. _Manufacture_ formerly meant to _make_ by _hand_.
+
+6. An _effect_ is something worked _out_, or _done_.
+
+7. A thing is _perfect_ when _thoroughly made_, or _finished_.
+
+11. _Sacrifice_ literally means to _make sacred_; to set apart as
+sacred.
+
+12. _Pacific_ means pertaining to _peace_; suited to _make_ or restore
+peace.
+
+13. A _feat_ is an act, a deed, an exploit; something _done_.
+
+14. To _defeat_ means to overcome or vanquish. Literally to _un do_.
+
+16. The _fashion_ of a thing is, in a sense, the _make_ of it.
+
+NOTE.—_fy_, meaning to make, is found as a suffix in derivatives too
+numerous to mention; as, purify (to _make pure_), rarefy (to _make
+rare_), classify (to _make_ or put into a _class_), etc.
+
+
+#fer, ferr# = carry, bear, bring.
+
+1. _circum_ fer ence, around
+2. _con_ fer, together
+3. _dif_ fer, apart
+4. fert _ile_, capable of
+5. _of_ fer, (ob) near.
+6. _pro_ (f)fer, forth
+7. _re_ fer, back
+8. re fer _ee_, one who
+9. _suf_ fer, (sub) under
+10. _trans_ fer, across
+
+1. See first month, page 10.
+
+2. When two or more persons _confer_ they _bring together_ opinions
+and facts on some special subject.
+
+3. See second month, page 13.
+
+5. To _bring near_ to; to present for acceptance; as, to _offer_ one's
+services.
+
+6. To _bring_ or put _forward_; to hold _forth_ so that a person may
+take; as, to _proffer_ a gift.
+
+7. To direct for information. Literally, to _carry back_; as, “Mahomet
+_referred_ his new laws to the angel Gabriel, by whose direction he
+gave out they were made.”
+
+9. To _suffer_ is to _bear under_; to undergo.
+
+NOTE.—_Ferr_ is an irregular Latin verb the principal parts of which
+are: _fero_, _ferre_, _tuli_, _latus_. The last form is found in a
+number of English words; as, dilate, elate, legislate, relate,
+superlative, translate. The meaning of the root in these words, as in
+the ten given above, is _bear_, _carry_, or _bring_.
+
+
+#fest# = feast.
+
+1. fest _al_. _Pertaining to_ a _feast_, a holiday or celebration.
+
+2. fest _ive_. _Pertaining to_ or becoming a _feast_; festal, joyous,
+gay.
+
+3. festival. A time of _feasting_ or celebration.
+
+4. festivity. Joyousness, gayety, such as becomes a _feast_.
+
+5. festoon. Originally an ornament for decoration at a _feast_.
+
+6. fête. Modern French, equivalent of _feast_.
+
+
+                             FOURTH MONTH.
+
+#uni# = one.
+
+1. unit, one
+2. un _ity_, ness
+3. un _ion_, state of being
+4. unite
+5. _dis_ unite, not
+6. _re_ unite, again
+7. un _anim_ ous, mind
+8. unanim _ity_, state of being
+9. uni _corn_, horn
+10. uni _form_, form
+11. uni _son_, sound
+12. uni _verse_, turn
+13. unique
+14. onion
+
+9. The _unicorn_ is a fabulous _one-horned_ animal.
+
+12. The _universe_ consists of all things considered as _one_ whole.
+
+13. A thing is _unique_ when it is the only _one_ of its kind.
+
+14. _Onion_ comes from the Latin _unio_, which means _oneness_; also a
+single pearl of large size resembling the onion.
+
+
+#anti# = against, opposed to.
+
+1. anti _climax_, ladder
+2. anti _christ_, Christ
+3. anti _dote_, give
+4. anti _path_ y, feel
+5. anti _pod_ es, foot
+6. anti _thesis_, place
+7. anti _slave_ ry, slave
+8. anti _soci_ al, companion
+
+1. An _anti climax_ is _opposed to_ or in contrast with a _climax_. In
+rhetoric it is a figure or fault of style consisting of an abrupt
+descent (down the _ladder_) from stronger to weaker expressions.
+
+3. An _antidote_ is something _given_ to counteract (act _against_)
+poison or disease.
+
+5. Those who live at _opposite_ points on the globe so that their
+_feet_ are directly toward each other are _antipodes_. Figuratively,
+things opposed to each other.
+
+6. In rhetoric an _antithesis_ is a figure of speech which consists of
+one idea _placed against_ another; a contrast.
+
+8. A person is _antisocial_ when he is averse or _opposed to_ society,
+social intercourse or _companionship_.
+
+
+#dia# = across, through, between.
+
+1. dia_gon_ al, angle
+2. dia _gram_, writing
+3. dia _lect_, speech
+4. dia _log_, speech
+5. dia _meter_, measure
+6. dia _pason_, all
+7. dia _phragm_, fence
+
+1. A _diagonal_ is a line _across_ from _angle_ to _angle_.
+
+2. A _diagram_ is that which is marked out by lines drawn or _written_
+across; as, a figure, a plan.
+
+3. _Dialect_ is _speech_ or language by means of which ideas are
+communicated (_across_) from one to another.
+
+6. The _diapason_ is one of certain stops in the organ, so called
+because it extends _through all_ notes of the scale.
+
+7. The _diaphragm_ is a membranous partition or _fence between_ the
+thorax and abdomen.
+
+
+#en# = on.
+
+1. en _dorse_, back
+2. en _grave_, carve
+3. en _throne_, throne
+4. en _list_, list
+
+1. To _endorse_ a check is to write one's name _on_ the _back_ of it.
+
+NOTE.—_en_ in most words is the equivalent of the Latin _in_, meaning
+in, into, within; as in encage, encase, encircle, enclose, encourage,
+enrage, enroll, entangle, entice, entomb, entrap, entwine, envelop,
+enwrap.
+
+
+#foli# = leaf.
+
+1. foliage. A cluster of _leaves_.
+2. folio. A _leaf_-sheet folded once.
+3. foil. A thin _leaf_ of metal.
+4. _tre_foil. A plant with _three leaves_; as, clover.
+5. _port_-folio. A case for _carrying_ loose _leaves_ of paper.
+
+
+#fort, forc# = strong.
+
+1. fort
+2. forti _fy_, make
+3. fortr _ess_
+4. _ef_ fort, (ex.) out
+5. forti _tude_, quality of
+6. force
+7. forc _ible_, capable of
+8. _en_ force, on
+9. _com_ fort, with
+10. _piano_ forte, soft
+
+1. A _fort_ is a _strong_hold.
+
+2. To _make strong_; to strengthen or secure by means of forts,
+batteries, or other military works.
+
+3. _Ess_ is a feminine ending. A “maiden fortress” is a fortification
+which has never been taken. A _fortress_ is a very strong fort.
+
+4. An _effort_ is a putting _out_ of one's _strength_ for the
+accomplishment of some end.
+
+5. _Fortitude_ is _strength_ or firmness of mind in meeting danger,
+pain, or adversity.
+
+6. _Force_ is _strength_ in general, physical, mental, moral.
+
+9. To _comfort_ is to _strengthen_ with hope and cheer; to give
+consolation to.
+
+10. The _piano forte_ is an instrument having both _soft_ and loud
+(_strong_) tones. The name is generally shortened to _piano_.
+
+
+#fract, frang# = break.
+
+1. frail
+2. frail _ty_, quality
+3. fract _ure_, that which
+4. fract _ion_, that which
+5. fract _ious_, quality of
+6. frag _ile_, capable of
+7. frag _ment_, that which
+8. _in_ fringe, in
+
+1. A thing is _frail_ when it is easily _broken_.
+
+2. _Frailty_ is a _quality_ of things easily _broken_.
+
+3. A _fracture_ is a _break_; as of a bone.
+
+4. A _fraction_ is a part, as if _broken_ off.
+
+5. A _fractious_ person is one apt to _break_ out into a passion.
+
+6. “The stalk of ivy is tough and not _fragile_” (_capable of_ being
+_broken_).—_Bacon._
+
+7. A _fragment_ is _that which_ is _broken_ off.
+
+8. To _infringe_ is to _break in_ upon; to trespass on another's
+rights.
+
+
+#frater, fratr# = brother.
+
+1. fratern _al_, pertaining to
+2. fratern _ity_, that which
+3. fratern _ize_, make
+4. frater
+5. friar
+6. friary
+
+1. _Fraternal_ means _brotherly_; like brothers.
+
+2. An organization in _which_ the members hold one another in
+_brotherly_ relations.
+
+3. To _fraternize_ means to _make_ a _brother_ of; to receive into a
+fraternity.
+
+4. _Frater._ A _brother_; especially a monk.
+
+5. _Friar._ A _brother_ of any religious order, but especially one of
+certain monastic orders of the Roman Catholic church.
+
+6. _Friary._ A home for friars (_brothers_); a monastery.
+
+
+                             FIFTH MONTH.
+
+#mono# = one, single, alone, solitary.
+
+1. mon _arch_, rule
+2. mono _gam_ ist, marriage
+3. mono _gram_, write
+4. mono _logue_, speak
+5. mono _mania_, mind
+6. mo _nomi_ al, term
+7. mono _poly_, sell
+8. mono _syllable_, syllable
+9. mono _the_ ism, God
+10. mono _tone_, tone, sound
+
+1. A _monarch_ is a _sole_ or supreme _ruler_.
+
+2. A _monogamist_ is _one who_ believes in _marriage_ with _one_
+person only.
+
+3. A _monogram_ is a single character formed of two or more letters
+interwoven (as if done at _one writing_).
+
+4. A _speak_ing by _one_ person.
+
+5. _Monomania_ is a derangement of _mind_ in regard to a _single_
+subject only.
+
+6. A _monomial_ in algebra is a quantity which consists of a _single
+term_.
+
+7. A _monopoly_ is the sole (or _single_) right to _sell_ a certain
+article, or to sell it at a given place.
+
+9. _Monotheism_ is the doctrine of belief that there is but _one God_.
+
+10. A _monotone_ is a _single tone_ without harmony or variation in
+pitch.
+
+
+#para# = aside, beside, similar
+
+1. para _ble_ (ballo), throw
+2. para _graph_, write
+3. par _allel_, one another
+4. para _phrase_, speak
+5. para _site_, feed
+6. par en _thesis_, put
+
+1. A _parable_ is a short fictitious narrative placed (_thrown_)
+_beside_ something which it is intended to illustrate.
+
+2. A _paragraph_ was originally a mark or note of comment _written
+beside_ the line or place where a division should be made; now a
+distinct part of a discourse or writing.
+
+3. _Parallel_ lines extend _beside one another_.
+
+4. _Paraphrasing_ is telling (_speaking_) the _same_ thing in other
+words.
+
+5. A _parasite_ is an animal or plant which lives _beside_ or in
+another organism on which it _feeds_.
+
+6. Marks of _parenthesis_ are often used for a word, phrase, clause,
+or sentence _put in_ by way of explanation to what it stands _beside_.
+
+
+#peri# = around.
+
+1. peri _anth_, flower
+2. peri _cardium_, heart
+3. peri _meter_, measure
+4. peri _tone_ um, stretch
+5. peri _oste_ um
+
+1. The _perianth_ is the floral envelope _around_ the _flower_.
+
+2. The _pericardium_ is the membrane which _surrounds_ the _heart_.
+
+3. The _perimeter_ of a figure is the outer boundary or _measure
+around_ it.
+
+4. The _peritoneum_ is the membrane which is _stretched around_ the
+abdomen.
+
+5. The _periosteum_ is the membrane _around_ the _bones_.
+
+
+#syn (syl, sym)# = with, together.
+
+1. syl _lable_, take
+2. sym _pathy_, feel
+3. sym _phony_, sound
+4. syn _chron_ ous, time
+5. syn _onym_, name
+6. syn _ops_ is, view
+7. syn _thesis_, put, place
+
+1. Literally, a _syllable_ is two or more sounds _taken together_, or
+uttered by one impulse of the voice. Many syllables, however, comprise
+but one sound.
+
+2. _Sympathy_ is _feeling with_ another, especially his sorrows and
+misfortunes.
+
+3. A _symphony_ is a _sounding together_; a harmony of sounds.
+
+4. _Synchronous._ Happening or existing at the _same time_.
+
+5. _Synonym._ Literally, a word having the _same name_. But it is
+applied to words of like or kindred meaning.
+
+6. A _synopsis_ is a _view_ of the whole _together_. A summary giving
+a general view of some subject.
+
+7. The _putting_ of two or more things _together_. _Synthesis_ is the
+opposite of analysis.
+
+
+#tele# = far (distance).
+
+1. tele _gram_, write
+2. tele _graph_, write
+3. tele _pathy_, feel
+4. tele _meter_, measure
+5. tele _phone_, sound
+6. tele _scope_, view
+
+1. A _telegram_ is a message transmitted (_written_) from _afar_.
+
+3. _Telepathy_ is the sympathetic communication at a _distance_ of one
+mind with another; not by the ordinary methods, but through _feeling_.
+
+4. _Telemeter._ An instrument for _measuring distances_ in surveying.
+
+
+#liber# = free.
+
+1. liber _al_, relating to
+2. _il_ liberal, not
+3. liberal _ity_, quality of
+4. liber _ate_, act of
+5. liberat _or_, one who
+6. liber _ty_, state of being
+7. liberal _ize_, make
+8. _de_ liver, from
+9. deliver _er_, one who
+10. deliver _y_, act of
+
+1. _Liberal._ Relating to or possessing a _free_ and generous heart.
+
+3. _Liberality_ is the quality of being _free_ or generous.
+
+7. To _liberalize_ is to _make free_, as to free from narrow views or
+prejudices.
+
+8. To _deliver_ means to set _free from_ bondage or restraint.
+
+
+#liter# = letter.
+
+1. letter
+2. letters
+3. liter _ary_, pert. to
+4. liter _ate_, condition of
+5. _il_ literate, not
+6. _al_ literation, (ad) to
+7. liter _al_, relating to
+8. _ob_ literate, against
+
+1. _Letter_ (from L. linere, to besmear); so called because smeared on
+parchment and not cut on wood.
+
+2. _Letters_ usually means literature in general; hence knowledge
+gained from books; literary culture.
+
+6. _Alliteration_ is a repetition of the same letter or sound at the
+beginning of two or more words in close succession. Examples: “A whole
+fleet of _b_ulky _b_ottomed _b_oats.” “What a _t_ale of _t_error now
+_t_heir _t_urbulency _t_ells.” Literally, _letter to letter_.
+
+8. In _obliterate_, _ob_ means _against_ or the reverse. The reverse
+of _besmear_ is to rub off; hence to _obliterate_ means to rub out, to
+erase.
+
+NOTE.—Other words from the same root are, literally, illiteracy,
+literati, literature, literalize, literalist.
+
+
+#man (manus)# = hand.
+
+1. _bi_ mana, two
+2. e man _cip_ ate, take
+3. man _acle_, cuff
+4. man _euver_, work
+5. man (n) _er_, relating to
+6. manu _al_, pert. to
+7. manu _fact_ ory, make
+8. manu _script_, write
+
+1. _Bimana_ is a term applied to man as a special order of mammalia.
+Animals having _two hands_.
+
+2. To _emancipate_ a slave is to _take_ him _out_ of the _hands_ of
+his master.
+
+3. The word _manacle_ comes from _manicula_, which means _handcuff_.
+
+4. Literally, _maneuver_ means a _working_ with the _hands_. To make
+adroit and artful moves; as, of an army.
+
+5. _Manner relates to_ the way of _handling_ or doing things.
+
+6. _Manual._ Performed, made, or used by the _hands_; as manual labor,
+manual arts.
+
+
+#mater# = mother.
+
+1. _alma_ mater, foster
+2. matern _al_, pert. to
+3. matern _ity_, state of being
+4. matri _cide_, kill
+5. metro _polis_, city
+6. metropolit _an_, relating to
+7. matron
+8. matron _ly_, like
+
+1. Literally, _alma mater_ means _foster mother_. It is applied by
+students to the university or college in which they have been trained.
+
+5. _Metropolis_ means _mother city_; the chief city of a state or
+country. Chicago is the metropolis of Illinois.
+
+6. _Metropolitan._ _Relating to_ the metropolis; as, a metropolitan
+newspaper.
+
+7. A _matron_ is a woman with _motherly_ duties; as the _matron_ of a
+school or hospital.
+
+
+                             SIXTH MONTH.
+
+#able# = capable of, fit to be.
+
+1. _ar_ able, plow
+2. _cap_ able, take, hold
+3. _dur_ able, last, hard
+4. _lia_ ble, bind
+5. _mut_ able, change
+6. _laud_ able, praise
+7. _port_ able, carry
+8. _soci_ able, companion
+9. _ten_ able, hold
+10. _us_ able, use.
+
+1. _Arable_ land is _capable_ of being _plowed_.
+
+2. A _capable_ mind can _take_ and _hold_ ideas (understand and
+remember).
+
+4. One is _liable_ for a debt when legally _bound_ to pay it.
+
+7. A _portable_ library is one fitted for being _carried_ from place
+to place.
+
+9. _Tenable_ ground for argument is ground which is _capable of_ being
+_held_ or maintained.
+
+
+#acy# = state of being, office of.
+
+1. _celib_ acy, unmarried
+2. _delic_ acy, pleasing
+3. _magistr_ acy, master
+4. _obdur_ acy, hard
+5. _obstin_ acy, firmly set
+6. _pap_ acy, pope
+7. _intim_ acy, inmost
+8. _intric_ acy, entangle
+
+1. _Celibacy_ is the _state of being unmarried_; especially that of a
+bachelor or of one bound by vows not to marry.
+
+3. _Magistracy._ The _office of master_; of one clothed with power, as
+a civil officer.
+
+4. _Obduracy_ is the _state of being hardened_, especially against
+moral influences; hard-hearted; stubbornly wicked.
+
+6. The _papacy_ is the _office of_ the _pope_.
+
+7. _Intimacy_ is the _state of being inmost_ or near in relationship.
+
+
+#an# = pertaining to.
+
+This suffix is seldom used except with names of countries and states.
+It means, _pertaining to_ what is of that country or state; as,
+American history, American products, American people.
+
+1.  African
+2.  Alaskan
+3.  Armenian
+4.  Australian
+5.  Bolivian
+6.  Bulgarian
+7.  Corsican
+8.  European
+9.  Georgian
+10. Hawaiian
+11. Indian
+12. Mexican
+13. Ohioan
+14. Persian
+15. Russian
+16. amphibian
+17. republican
+18. metropolitan
+
+16. _Amphibian_: _amphi_, both (two); _bi_, life; _an_, pertaining to:
+_pertaining to two_ kinds of _life_; i. e. life on the land and in the
+water. Frogs, turtles, crocodiles, seals, walruses, otters, beavers,
+etc., are _amphibians_, because they can live in water (for a time at
+least) and on land.
+
+18. _Metropolitan._ _Pertaining to_ the _mother city_. (See fifth
+month's work, page 32.)
+
+
+#ary# = one who, that which.
+
+1. ad _vers_ ary, turn
+2. _anni_ vers ary, year
+3. _antiqu_ ary, ancient
+4. _drom_ ed ary, run
+5. _miss_ ion ary, send
+6. _e_ miss ary, out
+7. _not_ ary, note
+8. _sal_ ary, salt
+9. _secret_ ary, secret
+
+1. Literally, an _adversary_ is _one who turns toward_ another (to
+oppose him); hence, one who turns against another.
+
+2. _That_ day _which returns_ each _year_ commemorating some event is
+an _anniversary_.
+
+3. An _antiquary_ is _one who_ collects and examines old (_ancient_)
+things; as, coins, medals, weapons.
+
+4. A _dromedary_ is a thorough-bred Arabian camel of more than
+ordinary speed and bottom; hence well adapted for _running_.
+
+5. A _missionary_ is _one who_ is _sent_ on a mission; especially one
+sent to propagate religion.
+
+6. An _emissary_ is _one who_ is _sent out_; especially one sent on
+secret business, as a spy. “I am charged with being an _emissary_ to
+France.”—_Robert Emmet._
+
+7. A _notary_ was formerly _one whose_ vocation was to make _notes_ or
+memoranda of acts of others. Now, a public officer usually spoken of
+as notary public.
+
+8. A _salary_ was formerly an allowance (_that which_ was) given to
+soldiers with which to buy _salt_.
+
+9. A _secretary_ was formerly _one who_ was intrusted with the private
+or _secret_ matters of his chief. One employed to do clerical work.
+
+_Ary_ is also a suffix of adjectives, meaning _relating to_; as in,
+arbitrary, contrary, culinary, exemplary, antiquary, hereditary,
+military, primary, revolutionary, solitary, secondary, visionary.
+
+_Ary_ also means _place where_; as in, granary, infirmary, library,
+seminary, sanctuary.
+
+
+#ate# = having.
+
+1. _corpor_ ate, body
+2. de _sper_ ate, hope
+3. ef _femin_ ate, woman
+4. _fortun_ ate, luck
+5. in _anim_ ate, breath
+6. _cord_ ate, heart
+7. _cruci_ ate, cross
+8. _cuspid_ ate, point
+9. _dent_ ate, tooth
+10. _glomer_ ate, ball
+11. _labi_ ate, lip
+12. _lun_ ate, moon
+13. _pin_ (n) ate, feather
+14. _serr_ ate, saw
+15. _sagitt_ ate, arrow
+16. _stell_ ate, star
+
+1. _Corporate_ means _having_ a _body_. (See incorporate, second
+month, page 18.)
+
+2. _Having_ no _hope_; as, “Continued misfortune had rendered him
+_desperate_.”
+
+3. _Effeminate._ _Having_ the qualities of a _woman_; soft, delicate,
+to an unmanly degree. Applied to men.
+
+5. _Inanimate._ _Not having breath_; without life.
+
+6. _Cordate._ _Having_ the shape of a _heart_; as a cordate leaf.
+
+
+#pel, puls# = drive.
+
+1. _com_ pel, together
+2. compuls _ion_, act of
+3. _dis_ pel, apart
+4. _ex_ pel, out
+5. expuls _ion_, act of
+6. _im_ pel, on
+7. _im_ pulse, on
+8. pulse
+9. _pro_ pel, forward
+10. _re_ pel, back
+11. _re_ pulse, back
+12. repuls _ive_, quality
+
+1. To _compel_, literally means to _drive together_; as a herd (a
+Latinism and rare). To _drive_ or urge with force.
+
+8. The _pulse_ is caused by _driving_ the blood through the arteries.
+
+12. A person is _repulsive_ when he has _qualities_ which tend to
+_drive_ others _back_ or away.
+
+
+#pend, pens# = hang.
+
+1. _ap_ pend, to
+2. append _age_, that which
+3. _de_ pend, from
+4. depend _ent_, one who
+5. depend _ence_, state or quality of
+6. _in_ dependence, not
+7. independ_ent_, one who
+8. _im_ pend, over
+9. pend _ant_, that which
+10. pendulum
+11. _per_ pendicular, through
+12. _sus_ pend, under
+13. suspend _ers_, that which
+14. suspens _ion_, state of
+
+1. _Append._ To _hang_ or attach _to_.
+
+2. An _appendage_ is _that which hangs to_ something as a part of it.
+“This little pensive _appendage_ or tender (the moon) to our fuming
+engine of an earth.”—_De Quincey._
+
+3. _Depend._ To _hang from_; to be fastened or attached to something
+above; to rely upon.
+
+4. A _dependent_ is _one who hangs_ (figuratively), or relies on
+another for support.
+
+8. _Impend._ To _hang over_, be ready to fall; threaten. “We seriously
+consider the dreadful judgments that now _impend_ the nation.”—_Penn._
+
+9. A _pendant_ is _that which hangs_ from something else; as, an
+earring or a tassel.
+
+10. The _pendulum_ of a clock _hangs_ and swings to and fro.
+
+11. A plumb line is a line _perpendicular_ to the horizon, _hanging_
+(_through_ the air).
+
+12. _Suspend._ To _hang under_ or from beneath.
+
+13. _Suspenders_ are _that_ from _which_ trousers are _hung_.
+
+
+#ped (pod)# = foot.
+
+1. _anti_ podes, against
+2. _bi_ ped, two
+3. _centi_ ped, hundred
+4. _ex_ pedite, out
+5. expedi _ent_, that which
+6. _im_ pede, in
+7. impedi _ment_, that which
+8. ped _al_, pertaining to
+9. peddl _er_, one who
+10. pede _stal_, stand
+11. pedestr _ian_, one who
+12. pedun _cle_, little
+13. _quadru_ ped, four
+14. _tri_ pod, three
+15. _octo_ pus, eight
+16. pedi _gree_, crane
+
+1. See fourth month, page 25.
+
+2. _Biped._ A _two-footed_ animal, as man.
+
+3. _Centiped._ An animal so called from having a great many _feet_
+(indefinitely a _hundred_).
+
+4. _Expedite._ Literally, to take the _feet out_ of entanglement;
+hence, to hasten.
+
+6. _Impede._ Literally, to entangle the _feet_. To obstruct the
+progress, motion, or effect of.
+
+8. _The pedal_ is something made to be moved by the _feet_.
+
+9. A _peddler_, literally, is a trader _who_ travels on _foot_.
+
+10. _Pedestal._ That which forms the base (_standing_ place for the
+_feet_) of a statue, column, vase, etc.
+
+12. A _peduncle_ is a (_little_) _foot_stalk of a flower or leaf.
+
+15. An _octopus_ is an _eight-footed_ or armed cuttlefish.
+
+16. _Pedigree_ means, literally, _crane's foot_. Why so called is
+uncertain, but supposed to be on account of a fancied resemblance of
+the lines of a pedigree, as drawn out on paper, to a crane's foot.
+(Compare _crow's foot_, applied to the lines of age about the eyes.)
+
+
+#pon, pos# = place, put.
+
+1. _ap_ position, to
+2. _com_ pose, together
+3. compos _ite_, being
+4. composit _ion_, act of
+5. compon _ent_, that which
+6. _com_ pound, together
+7. _de_ pose, down
+8. _de_ posit, down (away)
+9. deposit _ory_, place where
+10. _dis_ pose, apart
+11. _ex_ pose, out
+12. _im_ pose, upon
+13. _inter_ pose, between
+14. _im_ post, upon
+15. im post _or_, one who
+16. _op_ pose, (ob.) against
+17. oppos _ite_, being
+18. posit _ion_, state of being
+19. _pro_ pose, before
+20. _trans_ pose, across
+
+1. One word is in _apposition_ to another when it is _placed_ near
+_to_ it, by way of explanation.
+
+3. _Being_ made by _putting together_ separate parts or elements; as,
+a _composite_ flower.
+
+5. One of the several parts or elements _which_, when _placed
+together_, form the whole, is a _component_ part.
+
+6. To _compound_ is to _put_ or mix _together_ two or more elements or
+ingredients.
+
+8. To _put away_ for safe keeping; as, to _deposit_ money in a bank.
+
+10. To _dispose_ of anything is to _put_ it _apart_ from one; to get
+rid of it.
+
+11. To _place out_ where all may see; to uncover; as, to _expose_
+fraud.
+
+15. An _impostor_ is _one who puts_ burdens _on_ others; commonly
+applied to one who assumes a character for the purpose of deceiving
+others.
+
+18. _Position._ The manner in which a thing is _placed_; the _state of
+being placed_.
+
+20. To _transpose_ a quantity from one side of an equation to another
+is to _place_ it _across_.
+
+
+                            SEVENTH MONTH.
+
+#ic# = pertaining to.
+
+1. _arct_ ic, bear
+2. _aromat_ ic, spice
+3. _civ_ ic, citizen
+4. _class_ ic, first class
+5. _com_ ic, revelry
+6. _democrat_ ic, rule of the people
+7. _despot_ ic, master
+8. _domest_ ic, house
+9. _empir_ ic, experience
+10. _metr_ ic, measure
+11. _numer_ ic, number
+12. _phon_ ic, sound
+13. _prosa_ ic, prose
+14. _plast_ ic, form
+15. _graph_ ic, write
+
+1. _Arctic_ literally means _pertaining to_ the _Bear_; i. e. the
+northern constellations called the Great and Little Bears; hence,
+pertaining to the northern polar regions.
+
+2. _Aromatic._ _Pertaining to_ an agreeable or _spicy_ odor; fragrant.
+
+3. One's _civic_ duties are those _pertaining to_ him as a _citizen_,
+in distinction from those as a soldier.
+
+4. _Classic pertains to_ what is _first class_ in literature or art,
+especially that of the Greeks and Romans.
+
+5. _Comic pertains to revelry_; to what provokes mirth; as a _comic_
+song.
+
+9. _Empiric pertains to experience_, or what is founded on experience;
+relying on or guided by practical experience rather than scientific
+knowledge.
+
+13. _Prosaic_ means _pertaining to prose_; especially to that which
+lacks animation or interest.
+
+14. _Plastic_ means _pertaining to_ the process of _forming_ or
+modeling; capable of being moulded into a desired form.
+
+15. _Graphic_ means _pertaining to_ the art of _writing_ or drawing. A
+_graphic_ illustration is generally in the form of a drawing.
+
+
+#id# = (ness) quality, condition.
+
+1. _ac_ id, sour
+2. _flor_ id, flower
+3. _flu_ id, flow
+4. _frig_ id, cold
+5. in _sip_ id, taste
+6. in _trep_ id, tremble
+7. _luc_ id, light
+8. _morb_ id, disease
+9. _pal_(l) id, pale
+10. _splend_ id, shine
+11. _tep_ id, warm
+12. _torr_ id, parch
+13. _torp_ id, numb
+14. _viv_ id, life
+
+1. The distinguishing _quality_ of _acid_ is its _sour_ness.
+
+2. Having the _quality_ or appearance of _flowers_; specifically,
+flushed with red; as a _florid_ countenance.
+
+5. That which is _insipid_ has _not_ those _qualities_ which affect
+the _taste_; tasteless.
+
+6. An _intrepid_ person is brave and daring; he does _not tremble_
+with _fear_.
+
+13. _Torpid._ _Benumbed_; insensible; inactive; as an animal in
+hibernation, when it passes its time in sleep.
+
+
+#ity# = state or quality of being.
+
+1. _alacr_ ity, lively
+2. _brev_ ity, short
+3. _enm_ ity, enemy
+4. _fidel_ ity, faith
+5. _mortal_ ity, death
+6. _rotund_ ity, wheel
+7. _sanct_ ity, holy
+8. _seren_ ity, calm
+9. _tranquil_ (l)ity, quiet
+10. _un_ ity, one
+11. _util_ ity, use
+12. _veloc_ ity, swift
+
+5. _Mortality._ _State of being_ subject to _death_; frequency of
+death; hence the death-rate.
+
+
+#ive# = one who, that which.
+
+1. ad _ject_ ive, throw
+2. _alter_ native, other
+3. _capt_ ive, take
+4. con _nect_ ive, bind
+5. ex _ecut_ ive, follow
+6. ex _plet_ ive, fill
+7. _fugit_ ive, flee
+8. in _finit_ ive, limit
+9. loco_mot_ive, move
+10. _nat_ ive, born
+11. _negat_ ive, deny
+12. _posit_ ive, place
+
+1. (_ad_, to) An _adjective_ is a word _which_ is added (_thrown_)
+_to_ a noun to qualify its meaning.
+
+2. _Alternative_ in the plural means two things of _which one_ or the
+_other_ may be taken as a choice.
+
+5. The _executive_ of a state or nation is the _one whose_ duty it is
+to _follow out_ the decrees of the law making bodies; i. e. to see
+that the laws are obeyed.
+
+6. An _expletive_ is _that_ word _which fills out_ the sentence that
+contains it; as an _expletive_ adverb.
+
+8. (_in_, not) An _infinitive_ is _that_ verb _which_ is _not limited_
+by person and number.
+
+9. (_loco_, place) A _locomotive_ is _that which_ can _move_ cars from
+_place_ to place.
+
+12. The _positive_ is _that which_ has a real standing _place_. Not
+admitting of doubt; definitely laid down; clearly stated.
+
+
+#ment# = act of, that which.
+
+1. com _ple_ ment, fill
+2. _fila_ ment, thread
+3. _frag_ment, break
+4. _gar_ment, protect
+5. im_pedi_ ment, foot
+6. in_duce_ment, lead
+7. _liga_ ment, bind
+8. _monu_ ment, remind
+9. _orna_ ment, deck
+10. re_fresh_ ment, new
+
+1. _That which fills_ or _completes_.
+
+2. A _filament_ is _that which_ is _thread_like; as, the filament of
+silk, or flax.
+
+5. Literally, an _impediment_ is _that which_ entangles the _feet_;
+hence, that which hinders or interferes.
+
+10. _Refreshments_ consist of _that which_ makes one fresh or _new
+again_.
+
+
+#tang, tact, tig# = touch.
+
+1. _con_ tact, together
+2. contag_ion_, act of
+3. contag _ious_, quality of
+4. contamin _ate_, to make
+5. contigu _ity_, state of being
+6. contigu_ous_, quality of
+7. _en_ tire, not
+8. _in_ teger, not
+9. integr _al_, relating to
+10. integr _ity_, state of being
+11. tact
+12. _in_ tact, not
+13. tact _ile_, relating to
+14. tang_ent_, that which
+15. tang _ible_, capable of
+16. _in_ tangible, not
+
+1. The coming _together_ of two bodies; _touching_.
+
+2. The _act of_ communicating disease by the _touch_.
+
+3. Having the _quality of_ being imparted by _touch_; catching; as,
+_contagious_ diseases.
+
+4. To _contaminate_ is to make impure by mixture (_touching
+together_).
+
+5. _Contiguity_ is the _state of being_ within _touching_ distance.
+
+7. _Entire._ Whole or complete; _not touched_.
+
+8. An _integer_ is a complete or _not touched_ whole; a whole number.
+
+10. _State_ of _being untouched_ or unimpaired; freedom from
+corruption or impurity; as, _integrity_ of character.
+
+11. _Tact_ is skill in _touching_; nice perception or discernment in
+dealing with others.
+
+12. _Intact._ _Not touched_, especially by anything that misplaces,
+harms, or defiles.
+
+13. _Tactile._ _Relating to_ the sense of _touch_.
+
+14. A _tangent_ is a line _which touches_ a curve.
+
+15. Anything is _tangible_ when it is _capable of_ being _touched_, or
+perceived by senses.
+
+
+#tempor# = time.
+
+1. contempor _ary_, one who
+2. contemporane_ous_, quality of
+3. _ex_ tempore, out
+4. tempor _al_, relating to
+5. tempor _ary_, that which
+6. temporari _ly_, state of being
+7. tempor _ize_, do
+8. tense
+9. tempus _fugit_, flies
+
+1. (_con_, together) _One who_ lives at the same _time together_ with
+another is his _contemporary_; occurring or existing at the same time.
+
+3. _Extempore_ means, literally, _out_ of the _moment_. On the spur of
+the moment; without previous study or preparation.
+
+4. _Relating to time_ as opposed to eternity; earthly, transient; as,
+our _temporal_ affairs.
+
+5. _That which_ lasts for a brief _time_ only; not permanent; as, a
+_temporary_ scaffolding.
+
+7. To _temporize_ is to comply with the _time_ or occasion; to yield
+to the current of opinion or circumstances; to “_do_ as the _times_
+do”.
+
+8. The modification of verbs to indicate _time_, is called _tense_.
+
+9. _Tempus fugit_ is a Latin phrase frequently met with in English. It
+means, literally, _time flies_.
+
+
+#ten, tent, tain# = hold.
+
+1. _abs_ tain, from
+2. _con_ tain, together
+3. _de_ tain, from
+4. detent _ion_, act of
+5. _main_ tain, hand
+6. _re_ tain, back
+7. _sus_ tain, (sub) under
+8. ten _ant_, one who
+9. tenet
+10. ten _able_, capable of
+11. ten_acious_, quality of
+12. ten_ure_, that which
+
+1. To _abstain_ from drink is to _hold from_ it, to refrain
+voluntarily.
+
+2. A vessel _contains_ a liquid when it _holds_ its particles
+_together_.
+
+3. To _detain_ the wages of a laborer is to _hold_ them _from_ him
+after they are due.
+
+5. _Maintain_ literally means to _hold_ by the _hand_; to preserve
+from falling. To hold fast; to keep in possession; as, to _maintain_
+one's ground in battle.
+
+7. _Sustain._ To _hold_ up from _beneath_; to uphold; to support; to
+endure.
+
+8. A _tenant_ is _one who holds_ land under another.
+
+9. A _tenet_ is an opinion or doctrine _held_ as true.
+
+10. _Tenable._ _Capable of_ being _held_; as ground taken for
+argument.
+
+11. _Tenacious._ Having the _quality_ of _holding_ fast.
+
+12. One's _tenure_ of office is _that_ time during _which_ he _holds_
+office.
+
+
+#terr# = earth.
+
+1. _in_ ter, in
+2. inter _ment_, act of
+3. _sub_ terranean, under
+4. terr _ace_, that which
+5. terra _cotta_, baked
+6. terrestri _al_, relating to
+7. terr _ier_, that which
+8. territ _ory_, relating to
+9. _Medi_ terranean, middle
+10. Terra del _Fuego_, fire
+11. Terre _Haute_, high
+12. terra _firma_, firm
+
+1. To bury _in_ the _earth_; as a dead body.
+
+3. Situated or occurring _under_ the surface of the _earth_; as
+_subterranean_ forests—buried forests.
+
+4. A _terrace_ is a long mound or raised portion of _earth_.
+
+5. _Terra cotta_ is literally _baked earth_. A species of hard pottery
+used in building; ornamentation.
+
+6. _Terrestrial._ _Relating to_ the _earth_, earthly.
+
+7. A _terrier_ is one of a small breed of dogs, named from their
+propensity to scratch the ground or _earth_ in pursuit of prey.
+
+8. _Territory._ _Relating to_ the _earth_; a large extent or tract of
+land.
+
+9. The Mediterranean Sea is so called because situated in the _middle_
+of the _land_. In the middle of the ancient known world.
+
+10. Terra del _Fuego_ means literally the land of fire (_del_, of).
+
+11. _Terre Haute_ means _high land_. A city in Indiana situated on
+high land.
+
+12. _Terra firma_ is a Latin phrase, frequently met in English. It
+means _firm land_.
+
+
+                             EIGHTH MONTH.
+
+#ac# = pertaining to.
+
+1. _cardi_ ac, heart
+2. _demoni_ ac, demon
+3. _mani_ ac, mad
+4. _zodi_ ac, animal
+
+1. _Cardiac._ _Pertaining to_ or resembling the _heart_; exciting
+action in the heart.
+
+2. _Demoniac._ _Pertaining to demons_; one possessed of an evil
+spirit; a lunatic.
+
+3. _Maniac._ Raving with _madness_; crazy; insane.
+
+4. _Zodiac._ _Pertaining to_ the imaginary _animals_ figured in the
+twelve constellations forming a circle around the sun.
+
+
+#ics# = science of.
+
+1. _civ_ ics, citizen
+2. _eth_ ics, character
+3. _econom_ ics, (see below)
+4. _mechan_ ics, machine
+5. _opt_ ics, see
+6. _phys_ ics, nature
+7. _phon_ ics, sound
+8. _polit_ ics, city
+
+1. _Civics._ The _Science_ which treats of _citizen_ship.
+
+2. _Ethics._ The _science_ of right conduct—of _character_-building.
+
+3. _Economics_ literally means, the science of _managing_ the
+_household_; the science of the production and distribution of wealth,
+or the means of living well.
+
+4. _Mechanics._ The _science of machinery_, or the theory of machines.
+
+5. _Optics._ The _science_ which treats of light and _vision_, and all
+that is connected with the phenomena of sight.
+
+6. _Physics._ The _science_ which treats _of_ the forces of _nature_;
+as, gravitation, light, heat, electricity.
+
+7. _Phonics._ The _science of sound_; especially of sounds produced by
+the human voice.
+
+8. _Politics._ The _science_ which treats of the government of states
+and _cities_.
+
+
+#ism# = state of being, theory of.
+
+1. _altru_ ism, other
+2. _barbar_ ism, foreign
+3. _ego_ tism, self, I
+4. _commun_ ism, common
+5. _hero_ ism, hero
+6. _hypnot_ ism, sleep
+7. _organ_ ism, organ
+8. _sensual_ ism, sense
+
+1. _Altruism._ The _theory_ that devotion to the interests of _others_
+is the highest good.
+
+2. _Barbarism._ The _state_ of _being foreign_; rude in point of
+manners, arts and literature.
+
+3. _Egotism._ The _state of being self_-centered, self-conceited, and
+unduly self-confident; selfish as opposed to altruistic.
+
+4. _Communism._ A _theory of_ government and social order according to
+which property is held in _common_, and the profits of all labor
+devoted to the general good.
+
+5. The _state of being_ a _hero_ or having heroic qualities; as, lofty
+aim, fearlessness, fortitude.
+
+6. _Hypnotism._ An artificially induced _state of sleep_, in which the
+mind becomes passive, but acts readily upon suggestion or direction.
+
+7. _Organism._ The _state of being_ composed of different _organs_ or
+parts, working together and each necessary to the whole.
+
+8. _Sensual_ism. The _state_ which regards the gratification of the
+_senses_ as the highest good.
+
+
+#y# = state of being.
+
+1. a _path_ y, feel
+2. _anti_ pathy, against
+3. an _arch_ y, rule
+4. bi _gam_ y, marriage
+5. eu _phon_ y, sound
+6. melan _chol_ y, bile
+7. mis _anthrop_ y, mankind
+8. _phil_ anthrop y, love
+9. mono _pol_y, sell
+10. _poly_ gam y, many
+11. _sym_ path y, with
+
+1. _Apathy_ (a = without). _State of being without feeling_; lack of
+interest; mental indifference; sluggishness.
+
+2. _Antipathy._ A _state of feeling against_ or antagonistic to a
+person or thing; as, _antipathy_ to spiders.
+
+3. _Anarchy_ (an = without). _State of being without rule_; social and
+political disorder.
+
+4. _Bigamy_ (bi = two). _State of being married twice_; having two
+wives or two husbands at the same time.
+
+5. _Euphony_ (eu = well). _State of being_ agreeable in _sound_;
+_well_-sounding.
+
+6. _Melancholy_ (melan = black). _State of having black bile_; gloomy
+state of mind arising from grief or natural indisposition.
+
+7. _Misanthropy_ (mis = hatred). _State of having hatred_ for
+_mankind_; ill will for people in general.
+
+9. _Monopoly_ (mono = one). _State of having_ the exclusive (_sole_)
+privilege or power to _sell_ an article at a certain place and time.
+
+11. _Sympathy._ _State of feeling with_ another (as he feels) on
+account of his sufferings, misfortune, or joy.
+
+NOTE.—The suffix _y_ has the same meaning in the following words.
+They are, however, too simple to need defining; in fact, there are no
+simpler words on which to base definitions: airy, balky, bony, briny,
+chunky, downy, dusty, healthy, hearty, miry, musty, rusty, scaly,
+showy, sinewy, wealthy, worthy.
+
+
+#chron# = time.
+
+1. chron _ic_, pertaining to
+2. chronicl _er_, one who
+3. chron _ology_, science of
+4. chrono _meter_, measure
+5. _syn_ chron ous, together
+6. ana chron _ism_, state of
+
+1. _Pertaining to time_; continuing a long time, as a _chronic_
+disease; hence mild as to intensity and slow as to progress.
+
+2. _Chronicler._ _One who_ records events in the order of their
+occurrence in _time_.
+
+3. _Chronology._ The _science of_ ascertaining the true historic order
+(in _time_) of past events and their exact dates.
+
+4. _Chronometer._ Any instrument for _measuring time_; as, clock,
+watch, dial. Specifically, an instrument of great accuracy used on
+vessels for determining longitude.
+
+5. _Synchronous._ Occurring _together_ in _time_; happening or
+existing at the same time.
+
+6. _Anachronism_ (ana = back). Any error in respect to dates.
+Literally, _state of being_ placed at a wrong _time_. The significance
+of _ana_ in this word is not clear; the original meaning probably was,
+the referring of an event to a _time back_ of its correct date.
+
+
+#ge# = earth.
+
+1. geo _graph_ y, write
+2. geo _logy_, science of
+3. geo _metr_ y, measure
+4. Ge_orge_, (erg) work
+
+1. _Geography._ A description (_writing_) of the _earth_ and its
+inhabitants.
+
+2. _Geology._ The _science_ which treats of the structure of the
+_earth_; of its history as regards rocks, minerals, rivers, valleys,
+mountains, etc.
+
+3. _Geometry._ That branch of mathematics which treats of the
+measurement of solids, surfaces, lines, and angles. So called because
+one of its earliest and most important applications was to the
+_measurement_ of the _earth's_ surface.
+
+4. _George._ A tiller (_worker_) of the _earth_; a farmer.
+
+NOTE 1.—Other words, kindred to the above, containing this root-form
+are: geometric, geometrical, geometrician, geographic, geologize,
+geologist.
+
+NOTE 2.—_O_ is no part of the root. It is the “wedding ring” that
+ties roots of families together.
+
+
+#graph# = write.
+
+1. _auto_ graph, self
+2. _bio_ graphy, life
+3. _chiro_ graphy, hand
+4. _tri_ graph, three
+5. graph_ic_, pertaining to
+6. graphite
+7. _litho_ graph, stone
+8. _mono_ graph, single
+9. ortho _graphy_, right
+10. _para_ graph, beside
+11. _phono_ graph, sound
+12. _photo_ graphy, light
+13. _steno_ graphy, narrow
+14. _topo_ graphy, place
+
+6. _Graphite_ is a mineral used in lead pencils for _writing_.
+
+7. _Lithograph._ A _writing_ on _stone_ [Rare]. Made by printing
+(_writing_) from _stone_; as a picture.
+
+8. _Monograph._ A _written_ account or description of a _single_
+thing, or class of things.
+
+9. _Orthography._ The art of _writing_ words correctly (_right_), or
+according to standard usage.
+
+10. _Paragraph._ (See fifth month, page 29.)
+
+12. A _photograph_ is produced by the action of _light_ (_writing_, as
+it were,) upon chemically prepared paper.
+
+13. _Stenography_ is short (in a somewhat vague sense _narrow_) hand
+_writing_.
+
+14. _Topography._ A _written_ description of a particular _place_,
+town, or tract of land; especially the description of the physical
+features of a locality.
+
+
+#log, logy# = speech, reason, science of.
+
+1. logic
+2. logic _ian_, one who
+3. _apo_ logy, from
+4. _chrono_ logy, time
+5. _deca_ logue, ten
+6. _dia_ logue, between
+7. _epi_logue, upon
+8. _eu_ logy, well
+9. eulog _ize_, act of
+10. _geo_ logy, earth
+11. _mono_ logue, single
+12. _myth_ ology, fable
+13. _ornith_ ology, bird
+14. _psych_ ology, soul
+15. _pro_ logue, before
+16. _theo_ logy, God
+17. _dox_ ology, praise
+18. _zoo_ logy, animal
+
+1. _Logic._ The science of _reason_.
+
+3. An _apology_ is a _speech_ in defense of what appears to others
+wrong, the speaker thereby seeking relief _from_ blame.
+
+5. _Decalogue._ The _ten_ commandments (_speeches_) given to Moses on
+Mount Sinai.
+
+7. _Epilogue._ A _speech_ or poem at the end of an argument or
+address; a speech _upon_ (on top of, or in addition to) what has been
+said.
+
+14. _Psychology._ The _science_ which treats of the human _soul_ (mind
+and spirit included) and its operations.
+
+
+
+
+                             EIGHTH YEAR.
+
+
+                             FIRST MONTH.
+
+#ad# = to, toward.
+
+(ac, af, ag, al, an, ap, ar, as, at, denote the same as _ad_. The
+consonant is changed for the sake of euphony.)
+
+1. ad _dress_, direct
+2. ad _equate_, equal
+3. ad _here_, stick
+4. adher _ent_, one who
+5. a _dieu_, God
+6. ad _ject_ ive, throw
+7. ad _journ_, day
+8. ad _mon_ ish, warning
+9. ad _apt_, fit
+10. ad _opt_, choose
+11. ad _vent_, come
+12. ad _vert_ ise, turn
+13. ag _greg_ ate, flock
+14. al _lure_, entice
+15. an _nex_, bind
+16. ap _pend_, hang
+17. af _fix_, fasten
+18. ar _rive_, bank
+19. as _sail_, leap
+20. at _tach_, fasten
+
+1. To _address_ a letter is to _direct_ it _to_ its destination.
+
+2. One is _adequate_ to a duty or occasion when _equal to_ it.
+
+3. To _adhere_ is to _stick to_; as, a stamp to an envelope.
+
+4. “Every great man has his _adherents_” (_those who stick to_ him).
+
+5. _Adieu._ A farewell; a commendation _to_ the care of _God_.
+
+6. An _adjective_ is a word added (in a sense _thrown_) _to_ a noun to
+modify its meaning.
+
+7. _Adjourn._ To put off _to_ another _day_, or indefinitely.
+
+8. To _admonish_ is to give a friendly _warning to_; to give advice.
+
+9. To _adapt_ is to _fit to_ a certain purpose.
+
+10. To _adopt_ is to _choose_ (_to_ one's self); as to _adopt_ a
+child.
+
+11. _Advent._ The second _coming_ of Christ (_to_ the earth).
+
+12. To _advertise_ goods is to cause the public to _turn_ their
+attention _to_ them.
+
+13. To _aggregate_ is to collect _into_ a _flock_; to collect into a
+mass or sum.
+
+14. To _allure_ is to attempt to _entice_ or draw (_to_) by the offer
+of some good, real or apparent.
+
+15. To _annex_ is to _bind_, join or add _to_, as a smaller thing to a
+greater.
+
+16. _Append_ means to _hang_ or attach _to_, as by a string.
+
+17. _Affix._ To _fasten to_; to add at the close or end.
+
+18. _Arrive_ literally means to come _to_ the _bank_ or shore (from
+out on the water). In present usage it means to reach any object or
+result.
+
+19. _Assail._ To _leap toward_; to attack with violence.
+
+20. _Attach._ To _fasten to_; to affix or connect.
+
+
+#ante# = before.
+
+1. ante _ced_ ent, go
+2. ante di _luv_ ian, wash
+3. ante _meridi_ an, midday
+4. ante pen _ult_, last
+
+1. _Antecedent._ That which _goes before_ in time.
+
+2. _Antediluvian_ (di = away) (ian = one who). _One who_ lived
+_before_ the flood (_wash away_).
+
+3. _Antemeridian._ _Before_ the _middle_ of the _day_. Generally
+abbreviated to A. M.
+
+4. _Antepenult_ (pen = almost). _Before almost_ the _last_. The last
+syllable of a word but two.
+
+
+#bi (bis)# = two (twice).
+
+1. bi _ceps_, head
+2. bi _cuspid_, point
+3. bi _cycle_, circle.
+4. bi _ennial_, year
+5. bi _gamy_, marriage
+6. bi _mana_, hand
+7. bi _nomi_al, name or term
+8. bi _ped_, foot
+9. bis _cuit_, cook
+10. bi _sect_, cut
+11. bi _valve_, door
+12. ba _lance_, plate
+
+1. The _biceps_ is a muscle which draws up the forearm; so called
+because it has _two heads_ or origins.
+
+2. The _bicuspid_ teeth have _two points_.
+
+3. A _bicycle_ has _two_ wheels or _circles_.
+
+4. _Biennial_ means lasting _two years_ or occurring once in two
+years.
+
+5. A _bigamist_ is one who has been _married twice_, and who has two
+wives or two husbands at the same time.
+
+6. The _bimana_ are animals having _two hands_; as man.
+
+7. A _binomial_ in algebra is a quantity consisting of _two terms_.
+
+8. A _biped_ is an animal having but _two feet_; as man.
+
+9. _Biscuit_ were so called because formerly baked or _cooked twice_.
+
+10. To _bisect_ a line is to _cut_ it into _two_ equal parts.
+
+11. _Bivalve._ Having _two doors_; as the clam. (Each side or shell is
+comparable to a door, opening and shutting on a hinge.)
+
+12. _Balances_ are so called because they consist of _two plates_ or
+pans suspended from the balance beam.
+
+
+#con (col com cor)# = with, together.
+
+1. col _lapse_, slip, fall
+2. col _lect_, choose, gather
+3. col _lide_, strike
+4. col _loquy_, talk
+5. com _mingle_, mix
+6. com _miser_ate, pity
+7. com _motion_, move
+8. com _mute_, change
+9. com _pany_, bread
+10. com _posit_ion, put
+11. com _peer_ (_par_), equal
+12. con _cur_, run
+13. con _fide_, faith
+14. con _cord_, heart
+15. con _flict_, strike
+16. con _greg_ate, flock
+17. con _tact_, touch
+18. cor _robor_ ate, strength
+
+1. A building _collapses_ when its sides _fall together_; when it
+tumbles down.
+
+2. To _collect_ botanical specimens is to _gather_ them _together_.
+
+3. Two objects _collide_ when they _strike together_.
+
+4. A _colloquy_ is a _talking together_ of two or more people.
+
+5. _Commingle_ means to _mix together_; as people in society.
+
+6. _Commiserate._ To feel sorrow, pain or _pity_ (_with_ another).
+
+7. A _commotion_ is a _moving together_; a tumult.
+
+8. _Commute._ To _change_ one thing (_with_) for another; to exchange.
+To substitute a less thing for a greater.
+
+9. _Company_ formerly meant an assembly of people eating _bread
+together_.
+
+10. _Composition._ The act of _putting_ parts _together_ to produce a
+harmonious whole.
+
+11. One's _compeer_ is the _equal with_ himself in rank, age, prowess,
+etc.
+
+12. Two people _concur_ in regard to a matter when their minds _run
+together_; when they agree.
+
+13. To _confide_ in one is to have _faith_ in him; to intrust secrets
+_with_ him.
+
+14. _Concord_ means literally _heart with_ heart; agreement; harmony.
+
+15. _Conflict._ A _striking together_; hostile contest.
+
+16. To _congregate_ means to _flock_ or assemble _together_.
+
+17. _Contact._ A _touching together_; a close union of bodies.
+
+18. _Corroborate._ To _strengthen_; to make more certain; to confirm.
+Two statements _corroborate_ when one agrees _with_ the other; each
+thus _strengthens_ the other.
+
+
+#de# = down, from.
+
+1. de _capi_ tate, head
+2. de _cid_ uous, fall
+3. de _fine_, end, limit
+4. de _grade_, step, degree
+5. de _ject_ ed, cast
+6. de _pose_, place put
+7. de _preci_ ate, price
+8. de _scend_, climb
+9. de _spic_ able, look
+10. de _tract_, draw
+
+1. _Decapitate._ To take the _head from_ the body; to behead.
+
+2. The leaves of _deciduous_ trees _fall_ (_down_) once a year.
+
+3. _Define._ To put _down_, or mark out the bounds or _limit_; to
+fence _from_; to determine the precise meaning; to describe
+accurately.
+
+4. _Degrade._ To reduce from a higher (_down_) to a lower rank or
+_degree_.
+
+5. _Dejected._ _Cast down_ in spirit; discouraged.
+
+6. _Depose._ To _put down_; especially to remove from a throne or high
+station.
+
+7. _Depreciate._ To put _down_ the _price_; to reduce the value of.
+
+8. _Descend._ To _climb down_.
+
+9. _Despicable._ Deserving to be _looked down_ upon; low, mean,
+contemptible.
+
+10. _Detract._ To _draw from_; to take away; as, to take credit or
+reputation from.
+
+
+#capt (caput)# = head.
+
+1. _bi_ ceps, two
+2. capit _al_, pertaining to
+3. capt _ain_, one who
+4. capit ul _ate_, act of
+5. _de_ capitate, from
+6. cab(b) _age_, that which
+7. _per_ capita, by
+8. cap.
+9. cape
+
+1. _Biceps._ A large muscle of the upper arm, so called because it has
+_two heads_ or origins.
+
+2. _Pertaining to_ the _head_; chief; principal; as the _capital_
+city.
+
+3. _One who_ is at the _head_; a leader; as the _captain_ of a vessel,
+or a company of soldiers.
+
+4. _Capitulate._ To surrender on stipulated terms or conditions; to
+draw up items under _heads_ or chapters.
+
+5. _Decapitate._ To take the _head from_ the body.
+
+6. _Cabbage._ A vegetable _which_ has a _head_.
+
+7. _By_ the _head_; as a _per capita_ tax.
+
+8. A _cap_ is a covering for the _head_.
+
+9. A _cape_ is a _head_ of land.
+
+
+#cede, ced, cess# = go, yield.
+
+1. _ac_cede, to
+2. _ante_cedent, before
+3. _ex_ceed, out, beyond
+4. _inter_cede, between
+5. _pre_cede, before
+6. _pro_ceed, forward
+7. _re_cede, back
+8. _se_cede, aside
+9. _suc_ceed, (sub) after, under
+10. access
+11. an (te) cestor
+12. excess
+13. intercessor
+14. predecessor
+15. process
+16. recess
+17. secession
+18. successor
+
+1. _Accede._ To _yield to_; to agree; consent, concur; go to.
+
+2. The _antecedent_ of a pronoun is the noun which _goes before_ it,
+and for which the pronoun stands.
+
+3. _Exceed._ To _go beyond_ what is needed or expected.
+
+4. To _go between_ two persons as a mediator; especially to plead with
+the person who has some advantage over the other.
+
+5. _Precede._ To _go before_ in order of time.
+
+6. To _go_ on or _forward_; as _proceed_ with your work.
+
+7. _Recede._ To _go back_ from a given position.
+
+8. To _go aside_; to separate; as to _secede_ from the church.
+
+9. To _go_ or follow _after_ in order of time; as, one shock
+_succeeded_ another with great rapidity.
+
+NOTE 1.—The principal parts of the Latin verb are _cedo_, _cedere_,
+_cessi_, _cessum_. From this it appears that words 10-18 above are
+kindred in meaning and correspond to words 1-9.
+
+NOTE 2.—Observe that in three of these words the root is spelled
+_ceed_, in the others _cede_.
+
+
+#cent# = hundred.
+
+1. cent _enni_ al, year
+2. centi _grade_, step, degree
+3. centi _meter_, measure
+4. centi _ped_, foot
+5. _per_ cent, by
+
+1. Happening once in a _hundred years_. The _Centennial_ Exposition
+was held in Philadelphia in 1876, one hundred years after the signing
+of the Declaration of Independence.
+
+2. Divided into one _hundred degrees_. On the _centigrade_ thermometer
+there are one hundred degrees between the freezing point and the
+boiling point.
+
+3. _Centimeter._ The _hundredth_ part of a meter (standard of
+_measure_).
+
+4. _Centiped._ A segmented invertebrate animal of the class nyrapod
+(Greek for _many feet_), so called because it has a great many
+(indefinitely one _hundred_) _feet_.
+
+5. _By_ the _hundred_; as, six _per cent_; that is, six cents on the
+dollar.
+
+
+#civ# = citizen.
+
+1. _civ_ic, pertaining to
+2. civ _il_, quality of
+3. civil _ize_, to make
+4. civil _ian_, one who
+
+1. _Civic._ _Pertaining to_ a _citizen_, or the affairs of a city.
+
+2. _Civil._ Fit to live in a state or society with _citizens_.
+
+3. _Civilize._ To _make civil_. To instruct in the arts and customs of
+_citizen_ship.
+
+4. A _civilian_ is _one whose_ pursuits are those of a _citizen_ and
+not of a _soldier_.
+
+
+                             SECOND MONTH.
+
+#ex# = out, beyond, from.
+
+(_e_, _ec_, and _ef_, are euphonic variations of _ex_.)
+
+1. ex _ceed_, go
+2. ex _cept_, take
+3. ex _clude_, shut
+4. ex _curs_ion, run
+5. ex _cuse_, charge
+6. ex _hale_, breathe
+7. ex _it_, go
+8. ex _pand_, spread
+9. ex _pect_, look
+10. ex _ped_ ite, foot
+11. ex _pel_, drive
+12. ex _pire_, breathe
+13. ex _port_, carry
+14. ex _tent_, stretch
+15. ex _tract_, draw
+
+5. To _excuse_ is to relieve (take _out_) from the _charge_ of blame.
+
+10. To _expedite_ is to hurry forward; especially by removing
+hinderances (as _from_ the _feet_).
+
+
+#in (il, im, ir)# = in, into, on, not.
+
+1. il _leg_ al, law
+2. il _liter_ ate, letter
+3. im _bibe_, drink
+4. im _mature_, ripe
+5. im _mense_, measure
+6. im _merse_, plunge
+7. im _mort_ al, death
+8. im _mut_ able, change
+9. im _pel_, drive
+10. im per _vi_ ous, way
+11. im _pious_, reverent
+12. im _port_, carry
+13. im _pose_, put
+14. im _pulse_, drive
+15. im _pun_ ity, punish
+16. in _carn_ ate, flesh
+17. in _clem_ ent, mild
+18. in _cognito_, known
+19. in _clude_, shut
+20. in _crease_, grow
+21. in _cred_ ible, believe
+22. in _cur_, run
+23. in _dorse_, back
+24. in _duce_, lead
+25. in _del_ ible, rub out
+26. in _dent_, tooth
+27. in _evit_ able, avoid
+28. in _fid_el, faithful
+29. in _fant_, speak
+30. in _grate_, thankful
+31. in _hale_, breathe
+32. in _ject_, throw
+33. in _nate_, born
+34. in _nov_ ate, new
+35. in _sect_, cut
+30. in _spect_, look
+37. in _toxic_ ate, poison
+38. in _trude_, thrust
+39. in _vade_, go
+40. in _vert_, turn
+
+NOTE.—In defining the words in this list choose that meaning of the
+prefix from the four given above (_in_, _into_, _on_, _not_) which is
+most suitable; thus: _imbibe_ means to drink _in_; immature, _not_
+ripe; immerse, to plunge _into_; indorse, to write _on_ the back of.
+
+2. An _illiterate_ person is one _not_ familiar with _letters_; one
+who has little or no learning.
+
+5. Literally, anything is _immense_ when it can _not_ be _measured_;
+of vast extent.
+
+7. _Immortal._ _Not_ liable to _death_.
+
+10. Having _no way through_ (per = through); as, cloth which is
+_impervious_ to water; waterproof.
+
+14. An _impulse_ is a sudden mental motive or feeling which tends to
+_drive_ one _on_ to say or do something.
+
+15. _Not_ liable to _punishment_; freedom from the bad consequences
+which usually result from an act; as, the magician could eat fire with
+_impunity_.
+
+16. _In_ the _flesh_; as Christ was the _incarnate_ Son of God.
+
+17. _Not mild_, but harsh and severe; as _inclement_ weather.
+
+18. _Not known_; under an assumed name; disguised; as a nobleman
+traveling _incognito_.
+
+21. A story is _incredible_ when it is _not_ capable of being
+_believed_; unworthy of belief.
+
+26. _Indent._ To cut _into_ points like a row of _teeth_.
+
+29. _Infant._ A young babe (_not_ yet able to _speak_).
+
+35. _Insect._ A small animal apparently _cut into_ segments.
+
+40. _Invert._ To _turn_ the outside _in_; to place in a contrary way.
+
+
+#ob# = against, in the way of.
+
+(_oc_, _of_, _op_, are euphonic variations of _ob_.)
+
+1. ob _ject_, throw
+2. ob _loqu_ y, speak
+3. ob _sta_ cle, stand
+4. ob _struct_, build
+5. ob _trude_, thrust
+6. oc _cupy_, hold
+7. of _fend_, strike
+8. op _pon_ ent, place
+
+1. An _objection_ to a proposition is an opinion _thrown against_ or
+in opposition to it.
+
+2. _Obloquy._ A _speaking against_; language that casts contempt on
+men and their actions.
+
+6. To take and _hold_ (_against_ the possession of another); as to
+preëmpt and _occupy_ a homestead.
+
+
+#post# = after, behind.
+
+1. post _date_, date 2. post _pone_, place 3. post _script_, write 4.
+post _meridian_, midday 5. post _mortem_, death 6. _pre_ poster ous,
+before
+
+6. _Preposterous_ originally meant, having that _first_ which ought to
+be _last_; hind side before; reversing the natural order. In present
+day usage, contrary to nature, reason, or common sense; absurd.
+
+
+#curr, curs# = run.
+
+1. couri _er_, one who
+2. _con_ cur, together
+3. _con_ course, together
+4. curs _ory_, ing
+5. course
+6. _ex_ curs ion, out
+7. _in_ cur, into
+8. _inter_ course, between
+9. _pre_ curs or, before
+10. _re_ course, back
+
+1. A _courier_ is _one who runs_, or goes hastily with a message.
+
+2. The opinions of people _concur_ when they agree, or _run together_.
+
+3. A _concourse_ is an assemblage of people who have come (or _run_)
+_together_.
+
+4. A _cursory_ glance is a hasty, and hence, a _running_ glance.
+
+5. A race _course_ is a place for _running_.
+
+7. To _incur_ a debt is to _run into_ it.
+
+10. One who adds to his indorsement of a note or check the words
+“without _recourse_”, says in effect, “You can't _run back_ on me for
+payment”.
+
+
+#dent# = tooth.
+
+1. dent
+2. dent _al_, pertaining to
+3. dent _ate_, shaped like
+4. dent _ist_, one who
+5. _e_ dent ate, without
+6. dan _de lion_, of lion
+
+1. A _dent_ is an impression like that made by a _tooth_.
+
+5. _Edentate_ animals, such as the sloth, are _without teeth_, or at
+least are without the incisors.
+
+6. The _dandelion_ has yellow compound flowers which resemble the
+_tooth of_ the _lion_.
+
+
+#dict# = speak, say, tell.
+
+1. _bene_ dict ion, well
+2. _contra_ dict, against
+3. diction _ary_, that which
+4. dict _ate_, act of
+5. _e_ dict, out
+6. _pre_ dict, before
+7. _ver_ dict, truth
+8. _male_ dict ion, bad
+
+1. A _benediction_ is a blessing (a _speech_ to the effect that it may
+be _well_ with thee).
+
+3. A _dictionary_ is a book in _which_ we may learn about words, the
+elements of _speech_.
+
+4. To _dictate_ is to _speak_ or _say_ what another shall _write_ or
+do.
+
+7. The _verdict_ of a jury is what they _say_ to be the _truth_ in the
+case.
+
+
+#doc, doct# = teach.
+
+1. doc _ile_, capable of
+2. doct _or_, one who
+3. doct _rine_, that which
+4. docu _ment_, that which
+
+1. _Docile._ Capable of being easily _taught_.
+
+2. A _doctor_ is _one who_, by virtue of his master's degree, is
+qualified to _teach_.
+
+3. Doctrine is _that which_ is _taught_; a principle taught as a part
+of a system of belief.
+
+4. A _document_ is _that which teaches_ by means of the evidence it
+gives.
+
+
+
+
+                             THIRD MONTH.
+
+
+#pro# = for, forth, forward, before.
+
+1. pro _bat_ ion, try, prove
+2. pro _bosc_ is, feed
+3. pro _crastin_ ate, tomorrow
+4. pro _duce_, lead
+5. pro (f) _fer_, bear, bring
+6. pro _fuse_, pour
+7. pro _gnostic_ ate, know
+8. pro _gram_, write
+9. pro _gress_, step
+10. pro _ject_, cast
+11. pro _logue_, speech
+12. pro _mise_, send
+13. pro _mote_, move
+14. pro _noun_, noun
+15. pro _pel_, drive
+16. pro _pose_, put
+17. pro _spect_, look
+18. pro _trude_, thrust
+19. pro _vide_, see
+20. pro _voke_, call
+
+1. One who joins a church on _probation_ is given a _trial_ to _prove_
+his worthiness _before_ being fully admitted.
+
+2. A hollow organ attached to the head or mouth (the _forward_
+portion) of the animal with which he _feeds_.
+
+3. To put _forward_ till _tomorrow_, or to put off from time to time.
+“Procrastination is the thief of time.”
+
+6. A _profuse_ speaker _pours forth_ ideas freely.
+
+12. One's _promise_ is his word, spoken or written, _sent forth_ as
+evidence of something more substantial to follow.
+
+16. When a young man _proposes_ he _puts_ the question _before_ his
+lady.
+
+19. A good _provider sees_ necessities _before_hand and prepares to
+meet them.
+
+20. To _provoke_ laughter is to _call_ it _forth_.
+
+
+#retro# = backward.
+
+1. retro _grade_, step
+2. retro _spect_, look
+
+
+#se (sed)# = aside.
+
+1. se _cede_, go
+2. se _clude_, shut
+3. se _cure_, care
+4. se _duce_, lead
+5. se _greg_ ate, flock
+6. se _lect_, gather
+
+3. _Secure._ Free (_aside_) from _care_, as to danger or risk; as,
+_secure_ from attack, or _secure_ against loss by fire.
+
+4. _Seduce._ To _lead_ or draw _aside_; especially from a path of
+rectitude. To lead into evil.
+
+5. _Segregate._ To place or group (_flock_) _aside_ from others or the
+rest. In science, to put into a new or separate class.
+
+
+#sub# = under, after, near.
+
+(_suc_, _suf_, _sug_, _sup_, _sur_, are euphonic variations of _sub_.)
+
+1. sub _due_ lead
+2. sub _jug_ ate, yoke
+3. sub _lunar_, moon
+4. sub _merge_, plunge
+5. sub _ordin_ ate, rank
+6. sub _poena_, penalty
+7. sub _scribe_, write
+8. sub _side_, sit
+9. sub _soil_, ground
+10. sub _stance_, stand
+11. sub _terr_ anean, earth
+12. sub _trahe_ nd, draw
+13. sub _urbs_, city
+14. sub _way_, way
+15. suc _cess_ or, go
+16. suc _cumb_, lie
+17. suf _fer_, bear
+18. suf _fix_, fasten
+19. suf _focate_, throat
+20. sup _port_, carry
+
+1. _Subdue._ To _lead_ or bring _under_ authority; to conquer.
+
+2. _Subjugate._ To bring _under_ the _yoke_ of power or dominion.
+
+3. _Sublunar._ Situated _under_neath the _moon_; hence earthly.
+
+6. _Subpoena._ A writ commanding attendance _under penalty_.
+
+7. _Subscribe._ To bind one's self to, by _writing_ one's name
+_under_neath; as to _subscribe_ to the terms of a contract.
+
+8. _Subside._ To _sit_ (or settle) _under_ (down).
+
+10. _Substance._ That which underlies (_stands under_) all outward
+manifestation.
+
+11. _Subterranean._ Situated or occurring _under_ the surface of the
+_earth_.
+
+12. The _subtrahend_ is placed _under_ the minuend to be _drawn_ from
+it.
+
+13. _Suburb._ A town or village so _near_ to a _city_ that it may be
+used for residence by those doing business in the city.
+
+15. _One who goes_ or follows _after_; as, a _successor_ in office.
+
+16. _Succumb._ To _lie under_ discouragement, rather than to surmount
+it.
+
+19. Certain fumes or vapors _under_ the mouth (or _throat_), will
+_suffocate_ one.
+
+20. _Support._ To _carry_ on; keep up; as to _support_ a conversation;
+to _support_ a war. To bear the weight of, especially by holding up
+from beneath (_under_).
+
+
+#trans# = across, over, through.
+
+1. trans _act_, drive
+2. trans _alpine_, Alps
+3. trans _atlantic_, Atlantic
+4. tran _scend_, climb
+5. tran _scribe_, write
+6. trans _fer_, carry
+7. trans _form_, shape
+8. trans _fuse_, pour
+9. trans _gress_, step
+10. trans _it_, go
+11. trans _late_, carry
+12. trans _lucent_, shining
+13. trans _marine_, sea
+14. trans _migration_, moving
+15. trans _mit_, send
+16. trans _mute_, change
+17. trans _parent_, appear
+18. trans _port_, carry
+19. trans _pose_, put
+20. trans _verse_, turn
+
+The literal meanings of the twenty words given above are so apparent
+as to need no explanation. Illustrate each with a sentence.
+
+
+#fin# = end, limit.
+
+1. _Final._ _Pertaining to_ the _end_; the last.
+
+2. _Finale._ The _end_ of a musical composition.
+
+3. _Finish._ To _make_ an _end_ of.
+
+4. _Fine._ Well _finished_. Also, a penalty assessed at the _end_ of
+the case.
+
+5. _Refine._ Finished over (or _again_).
+
+6. _Finite._ Having a _limit_ in power or knowledge.
+
+7. _Infinite._ Having _no limit_ in power or knowledge.
+
+8. _Confine._ To keep _within limits_ or bounds.
+
+9. _Superfine._ _Over_ or extra finish.
+
+
+#firm# = strong, steadfast.
+
+1. _in_firm, not
+2. infirm _ity_, that which
+3. infirm _ary_, place where
+4. _con_ firm, with
+5. farm
+
+1. _Infirm._ _Not strong_, but weak and defective.
+
+2. _Infirmity._ _That_ with _which_ one is afflicted or infirm.
+
+4. The testimony of one witness is made _stronger_ when that of
+another witness agrees _with_ or _confirms_ it.
+
+5. A _farm_ is a substantial possession, _steadfast_ and immovable.
+
+
+#flex, flect# = bend, turn.
+
+1. flex _ible_, capable of
+2. _in_ flexible, not
+3. flexibil _ity_, quality
+4. flect _or_, that which
+5. _circum_ flex, around
+6. _de_ flect, from
+7. _re_ flection, back
+8. _re_ flex, back
+
+4. _That which bends_; as, the biceps muscle is the _flector_ which
+_bends_ the arm.
+
+5. A _circumflex_ is a _bending around_ of the voice,—a rise and a
+fall on the same syllable.
+
+7. _Reflection._ A _turning_ of the thoughts _back_ to things of the
+past.
+
+8. Sensations arrested at the nerve centers and _turned back_ without
+their reaching the brain results in _reflex_ action.
+
+
+#flu# = flow.
+
+1. flu _ent_, characteristic of
+2. _af_ fluence, (ad) to
+3. _con_ fluence, together
+4. _in_ fluence, in
+5. influenz _a_
+6. _in_ flux, in
+7. _super_ fluous, over
+8. fluid
+9. flush
+
+1. A _fluent_ speaker uses smooth and _flowing_ language.
+
+2. People of _affluence_ have wealth _flowing to_ them.
+
+3. The _confluence_ of two streams is their _flowing together_.
+
+4. _Influence_ literally means _flowing in_. The bringing about a
+result by a gradual process; gradual because _flowing_.
+
+5. _Influenza._ A disease, somewhat allied to a cold, formerly
+attributed to the _influence_ of the stars.
+
+8. A _fluid_ is so called because it is capable of _flowing_.
+
+9. _Flush._ To _flow_ swiftly.
+
+
+                             FOURTH MONTH.
+
+#vice# = instead of.
+
+1. vice president
+2. vice admiral
+3. vice _roy_, king
+4. vic _ar_, one who
+5. vice _versa_, turn
+
+3. _Viceroy._ A ruler acting with kingly authority _instead of_ the
+_king_.
+
+4. _Vicar._ In general, _one who_ is authorized to perform functions,
+especially religious ones, _instead of_ another.
+
+5. _Vice versa._ _Turned_, one _instead of_ the other, interchanged.
+
+
+#a (an)# = without, not.
+
+1. a _byss_, bottom
+2. a _cephal_ ous, head
+3. a _chrom_ atic, color
+4. a _gnostic_ ism, knowledge
+5. an _archy_, rule
+6. an _ecdote_, given out
+7. an _esthetic_, feeling
+8. an _onym_ ous, name
+9. a _pathy_, suffer, feel
+10. a _sylum_, right of seizure
+11. a _the_ ist, God
+12. a _tom_, cut
+
+4. _Agnosticism._ The doctrine or theory that man has _not_ any real
+or absolute _knowledge_ of anything, but can know only “impressions”.
+
+5. _Anarchy._ A state of society in which there is _no_ authority or
+_ruling_ power.
+
+6. _Anecdote_ [ec (ex) = out]. Originally a personal or biographical
+incident _not given out_ for publication.
+
+7. That which causes a loss of sensation; hence, one who has taken an
+_anesthetic_ is _without_ the _feeling_ of pain.
+
+10. _Asylum._ Originally a place of refuge where criminals or debtors
+were free from (_without_) the _right of seizure_.
+
+11. _Atheist._ _One who_ is _without_ belief in the existence of a
+_God_.
+
+12. _Atom._ The smallest particle of matter; hence a particle which
+_cannot_ be further _cut_ or divided.
+
+
+#auto# = self.
+
+1. auto _crat_, rule
+2. auto _graph_, write
+3. auto _bio_ graphy, life
+4. auto _maton_, strive
+5. auto _mobile_, move
+6. aut _ops_ y, see
+
+1. _Autocrat._ An absolute sovereign, one who has the _ruling_ power
+all in him_self_.
+
+3. _Autobiography._ A _writing_ of one's _life_ by him_self_.
+
+4. _Automaton._ A _self_ acting (_striving_) machine; one having its
+motive power within itself.
+
+6. _Autopsy._ _Seeing_ by one's _self_; personal observation or
+examination.
+
+
+#epi# = upon.
+
+1. epi _cycle_, circle
+2. epi _demic_, people
+3. epi _dermis_, skin
+4. epi _gram_, write
+5. epi _sode_, way
+6. epi _taph_, tomb
+7. epi _thet_, place
+8. epi _zoötic_, animal
+
+1. _Epicycle._ A circle whose center moves around _upon_, or in, the
+circumference of another _circle_; as the orbit of the moon in its
+motion with the earth around the sun.
+
+4. _Epigram._ Literally, to _write upon_. A short, pointed poem, or a
+bright thought concisely and sharply expressed.
+
+5. _Episode._ Something which happens _upon_ the _way_, or comes in
+incidentally to the main enterprise.
+
+7. _Epithet._ An adjective or term _placed upon_ a person or thing and
+expressing some quality especially appropriate to that person or
+thing.
+
+8. _Epizoötic._ A disease _upon_ many _animals_ in a community.
+
+
+#micro# = little.
+
+micro _be_, life; micro _cosm_, world; micro _scope_, see, view.
+
+
+#grat (grac)# = pleasing, favor, thankful.
+
+1. grati _tude_, ness
+2. grate _ful_, full of
+3. grati _fy_, make
+4. _in_ grati ate, into
+5. _in_ grate, not
+6. _un_ grateful, not
+7. _dis_ grace, from
+8. grac _ious_, having
+9. _a_ gree, (ad) according to
+10. gratis
+11. grace
+
+4. To become _ingratiated_ with another is to get _into_ his _favor_.
+“The pigmy had contrived to _ingratiate_ himself into every man's
+affection.”—_Stanley._
+
+5. An _ingrate_ is _not thankful_ for benefits received.
+
+7. One in _disgrace_ is out of (away _from_) _favor_ with others.
+
+9. An _agreement_ is entered into _according to_ the _pleasure_ of
+both parties.
+
+10. _Gratis._ Out of, or because of, _favor_; without recompense.
+
+11. _Grace._ Literally, _pleasing_; beloved.
+
+
+#greg# = flock, herd.
+
+1. _ag_ gregate, (ad) to
+2. _con_ gregate, together
+3. gregari _ous_, quality
+4. _se_ gregate, aside
+
+3. _Gregarious._ _Quality_ or characteristic of animals which tend to
+gather in _flocks_; as, sheep, geese, deer.
+
+4. _Segregate._ To separate (_aside_) from others and form into an
+isolated group (_flock_).
+
+
+#ject# = cast, throw.
+
+1. _ab_ ject, away
+2. _de_ jected, down
+3. _e_ ject, out
+4. _in_ ject, in
+5. _ob_ ject, against
+6. _pro_ ject, forth
+7. _re_ ject, back
+8. _ad_ jective, to
+9. _inter_ jection, between
+10. _sub_ ject, under
+
+
+#leg# = law.
+
+1. leg _al_, pertaining to
+2. _il_ legal, not
+3. legal _ity_, state of
+4. legal _ize_, make
+5. legis _late_, bring forth
+6. _privi_ lege, private
+
+6. A _private law_, a peculiar benefit, right, or favor not enjoyed by
+others or by all, is a _privilege_.
+
+
+                             FIFTH MONTH.
+
+#aceous# = having the quality of.
+
+[In defining words of this ending, combine the meaning of the suffix
+with the meaning of the root; thus, _cretaceous_ means having the
+quality of _chalk_.]
+
+1. _creta_ ceous, chalk
+2. _crust_ aceous, shell
+3. _carbon_ aceous, coal
+4. _farin_ aceous, grain
+5. _herb_ aceous, herb
+6. _sapon_ aceous, soap
+
+
+#al# = pertaining to.
+
+1. _capit_ al, head
+2. _corpor_ al, body
+3. _cymb_ al, cup
+4. _dent_ al, tooth
+5. _di_ al, day
+6. _fest_ al, feast
+7. _fili_ al, son, daughter
+8. _fin_ al, end
+9. _flor_ al, flower
+10. _frug_ al, fruit
+11. _jovi_ al, merry
+12. _leg_ al, law
+13. _miner_ al, mine
+14. _nas_ al, nose
+15. _nat_ al, born
+16. _nomin_ al, name
+17. _norm_ al, rule
+18. _pen_ al, punishment
+19. _plur_ al, more
+20. _reg_ al, king
+21. _roy_ al, king
+22. _rur_ al, country
+23. _vit_ al, life
+24. _voc_ al, voice
+
+1. _Pertaining to_ the _head_, as, _capital_ punishment, which
+involves the forfeiture of the _head_.
+
+10. A _frugal_ person is economical with his means, hence _fruitful_
+in saving.
+
+16. _Pertaining to_ the _name_ only, not real; as, a _nominal_
+Christian.
+
+17. _Pertaining to_ the standard or _rule_; as, the _normal_ color of
+the crow is black.
+
+
+#ence#, as a suffix to nouns like the following, means _state of being_.
+
+1. abs _tin_ ence, hold
+2. af _flu_ ence, flow
+3. bene _vol_ ence, wish
+4. con _dol_ ence, grief
+5. con _fid_ ence, faith
+6. de _pend_ ence, hang
+7. im _pot_ ence, power
+8. _omni_ pot ence, all
+9. re _tic_ ence, silent
+10. _sequ_ ence, follow
+
+1. _State of holding from_ something which tempts and entices; as,
+_abstinence_ from strong drink.
+
+2. (See third month, page 63.)
+
+3. _State of being_ actively desirous (_wishing_) for the _well_-being
+of others. “The laws of social _benevolence_ require that every man
+should try to assist others by his experience.”
+
+4. _Condolence._ _State of being_ in _grief_ or sympathy _with_ others
+on account of their afflictions.
+
+5. _Confidence._ _State of being_ confident (of having _faith_ in
+others or in one's self).
+
+6. _Dependence._ _State of being_ dependent (of _hanging_ [relying] on
+others for support).
+
+7. _Impotence._ _State of being_ impotent (of having no _power_; weak;
+feeble).
+
+8. _Omnipotence._ _State of being all powerful._
+
+9. _Reticence_. _State_ or quality _of being silent_; refraining from
+speech.
+
+10. _Sequence._ _State of being_ sequent (_following_); order of
+following.
+
+
+#ance#, as a suffix to nouns like the following, means _state of being_.
+
+1. con _cord_ ance, heart
+2. con _son_ ance, sound
+3. dis _cord_ ance, heart
+4. dis _son_ ance, sound
+5. _domin_ ance, master
+6. ex _pect_ ance, look
+7. _fragr_ ance, scent
+8. re _pugn_ ance, fist
+9. _sembl_ ance, similar
+10. _temper_ ance, time
+
+1. _Concordance._ _State of being heart with heart_; harmony;
+agreement.
+
+2. _Consonance._ _State of_ agreement of _sound with sound_; tones in
+unison.
+
+8. _Repugnance._ Literally, the _state of being_ disposed to fight
+(strike) _back_ (with the _fist_) [obsolete]. Opposition; aversion;
+dislike.
+
+10. _Temperance._ _State of being_ well _timed_ (regular in habits) in
+eating, drinking, sleeping, exercising, etc.
+
+
+#ent# = one who, that which.
+
+1. ad _her_ ent, stick
+2. ante _ced_ ent, go
+3. _belliger_ ent, wage war
+4. de _pend_ ent, hang
+5. equi _val_ ent, power
+6. in _solv_ ent, loosen
+7. pre _ced_ ent, go
+8. op _pon_ ent, place
+9. re _pell_ ent, drive
+10. _tang_ ent, touch
+
+NOTE.—The meanings of the above prefixes have frequently been given.
+Combine the meaning of suffix, root, and prefix, adding other words
+when necessary, to make definitions. The only word in the list which
+can give any difficulty is number four, which is explained in the work
+of seventh year, sixth month, page 35.
+
+
+#ment# = mind.
+
+1. mental
+2. comments
+3. mention
+4. memento
+5. demented
+
+1. One's _mental_ powers are the powers of his _mind_, including
+intellect, feeling, and will.
+
+2. One's _comments_ on a topic generally reveal to some degree the
+state of his _mind_ in regard to it.
+
+3. The _mention_ of a thing calls it to _mind_.
+
+4. A _memento_ is a _reminder_.
+
+5. A _demented_ person has the powers of his _mind_ impaired.
+
+
+#mit, mitt# = send, let go.
+
+1. _ad_ mit, to
+2. _com_ mit, with
+3. _e_ mit, out
+4. _o_ mit, (ob) by
+5. _per_ mit, through
+6. _re_ mit, back
+7. _sub_ mit, under
+8. _trans_ mit, across
+
+1. A ticket will _admit_ you (_let_ you _go_) to the entertainment.
+
+2. To place in custody; to entrust _with_; as to _commit_ a fund to
+the care of trustees; to _commit_ (_send_) a prisoner to jail.
+
+3. To _send_ or give _out_; as, the fountain _emits_ water.
+
+4. To _let go by_; to neglect; to overlook; as, to _omit_ a fact.
+
+5. A _permit_ will _let_ you _go through_ the factory.
+
+6. To _remit_ is to _send_ (_back_) value for value received.
+
+7. To give up or _let_ one's self _go under_ the government of
+another; to yield, or surrender. “Do not _submit_ yourself to insult.”
+
+8. To _send_ (_across_) from one to another; as, to _transmit_ a
+message.
+
+
+#norm# = rule.
+
+1. norm _al_, pertaining to
+2. _ab_ normal, from
+3. _e_ normous, out
+4. enorm _ity_, state of
+
+1. _Pertaining to_ the usual _rule_ or type; as, his pulse is
+_normal_.
+
+2. Deviating _from_ the natural condition, course, or _rule_; as, an
+_abnormal_ appetite.
+
+3. _Out_ of the ordinary; not conforming to the usual _rule_; as the
+death rate was _enormous_.
+
+4. The _state_ or quality _of_ being enormous; especially the quality
+of being extremely bad; as, the _enormity_ of his crime.
+
+
+#pater# = father.
+
+1. patern _al_, pertaining to
+2. patri _arch_, rule
+3. patron _ize_, act of
+4. patri _cide_, kill
+5. patri _ot_, one who
+6. patrimony
+
+1. Pertaining to a _father_; fatherly; as, _paternal_ love.
+
+2. _Patriarch._ One of the _fathers_ and _rulers_ of a tribe or race;
+particularly applied to the early tribes of mankind.
+
+3. _Patronize._ To _act_ like a patron, or one who protects, fosters,
+or supports some enterprise, as a _father_ looks after those under his
+care.
+
+4. _Patricide._ The _killing_ of a _father_.
+
+5. _Patriot._ _One who_ loves and supports the institutions of his
+country somewhat as a _father_ cares for the interests of his family.
+
+6. _Patrimony._ An inheritance from an ancestor; especially from one's
+_father_.
+
+
+                             SIXTH MONTH.
+
+#fy# = to make.
+
+1. _ampli_ fy, large
+2. _certi_ fy, certain
+3. _clari_ fy, clear
+4. _dei_ fy, god
+5. _exempli_ fy, example
+6. _falsi_ fy, false
+7. _forti_ fy, strong
+8. _horri_ fy, horror
+9. _identi_ fy, the same
+10. _justi_ fy, right
+11. _lique_ fy, liquid
+12. _magni_ fy, large
+13. _puri_ fy, pure
+14. _rare_ fy, rare
+15. _recti_ fy, right
+16. _terri_ fy, frighten
+17. _testi_ fy, witness
+18. _typi_ fy, type
+19. _veri_ fy, true
+20. _vivi_ fy, life
+
+
+#ile# = pertaining to, belonging to, capable of, like.
+
+1. _ag_ ile, act
+2. _duct_ ile, draw
+3. _frag_ ile, break
+4. _fert_ ile, bear
+5. _host_ ile, enemy
+6. _juven_ ile, young
+7. _puer_ ile, child
+8. _serv_ ile, serve
+9. _vers_ atile, turn
+10. _vir_ ile, man
+
+2. A _ductile_ substance is one which is _capable of_ being _drawn_
+into wire.
+
+9. A _versatile_ person is _capable of turning_ readily from one thing
+to another; manysided.
+
+
+#ine# = belonging to, like.
+
+1. _aquil_ ine, eagle
+2. _bov_ ine, cow
+3. _can_ ine, dog
+4. _dent_ ine, tooth
+5. _div_ ine, deity
+6. _fel_ ine, cat
+7. _femin_ ine, woman
+8. _mar_ ine, sea
+9. _mascul_ ine, male
+10. _sal_ ine, salt
+
+1. An _aquiline_ nose is one hooked like the beak which _belongs_ to
+an _eagle_.
+
+3. The _canine_ teeth are so called because they correspond to those
+best developed in the _dog_.
+
+
+#ion# = the act of, ing. (In many words _ion_ means _that which_.)
+
+1. _ablut_ ion, washing away
+2. _bisect_ ion, cutting in two
+3. _expans_ ion, spreading out
+4. _expuls_ ion, driving out
+5. _inspect_ ion, looking into
+6. _intercess_ ion, going between
+7. _collect_ ion, gathering together
+8. _combust_ ion, burn
+9. _commot_ ion, move
+10. _frict_ ion, rub
+11. _junct_ ion, join
+12. _opt_ ion, choose
+13. _resurrect_ ion, rising again
+14. _secess_ ion, going aside
+15. _stat_ ion, stand
+16. _tens_ ion, stretch
+
+1. An _ablution_ is the _act of washing away_, or cleansing.
+
+15. A _station_ is a _standing_ place for the train.
+
+
+#ite# = one who.
+
+1. A _Canaanite_ is _one who_ dwelt in the land of _Canaan_.
+2. A _Dowieite_ is _one who_ is a follower of _Dowie_.
+3. A _favorite_ is _one who_ receives special _favor_.
+4. A _hypocrite_ is _one who pretends_ to be what he is not.
+5. An _Israelite_ is _one who_ is a descendant of _Israel_, or Jacob.
+6. A _Levite_ is _one who_ is a descendant of _Levi_.
+
+
+#port# = carry.
+
+1. port _able_, capable of
+2. port _folio_, leaf
+3. port _er_, one who
+4. _ex_ port, out
+5. _im_ port, into
+6. _re_ port, back
+7. _sup_ port, under
+8. _trans_ port, across
+9. port
+
+1. _Capable of_ being _carried_ or moved without difficulty; as, a
+_portable_ engine.
+
+2. _Portfolio._ A case or folder in which _leaves_ of loose paper or
+other stationery may be _carried_.
+
+3. _Porter._ Literally, _one who carries_ burdens.
+
+7. _Support._ To _carry_ or uphold from beneath (_under_).
+
+9. _Port._ The manner in which one _carries_ himself.
+
+
+#rupt# = break.
+
+1. _ab_ rupt, away
+2. _bank_ rupt, bench
+3. _dis_ rupt, apart
+4. _e_ ruption, out
+5. _inter_ rupt, between
+6. rupt _ure_, ing
+7. rout
+8. route
+
+2. At Florence, it is said, a trader or money changer who failed in
+business had his _banca_, or money _bench, broken_; hence, one who is
+unable to pay his debts is _bankrupt_.
+
+6. A _rupture_ is a _breaking_ apart; as the _rupture_ of a blood
+vessel.
+
+7. To _break_ the ranks of, and throw into confusion; as to _rout_ an
+enemy.
+
+8. _Route_ originally meant a road _broken_ through a new and
+untraveled section of country. After thus _broken_ it became a way or
+_route_ for travel.
+
+
+#scribe, script# = write.
+
+1. _circum_ scribe, around
+2. _de_ scribe, down
+3. _in_ scribe, in, upon
+4. _pre_ scribe, before
+5. _sub_ scribe, under
+6. _tran_ scribe, across
+7. _post_ script, after
+8. _in_ scription, upon
+9. scribe
+10. scribble
+11. script
+12. scripture
+
+1. _Circumscribe._ To draw (_write_) a bounding line _around_; hence,
+to lay down the limits or restrict the action of.
+
+9. A _scribe_, in Jewish history, was a custodian and _writer_ of the
+official records of the nation.
+
+10. To _scribble_ is to do hasty or careless _writing_.
+
+11. _Script_ consists of characters _written_ by hand.
+
+12. _Scripture._ The sacred _writings_ of any people.
+
+
+#spec, spect# = look, see, view.
+
+1. _a_ spect, (ad) toward
+2. _circum_ spect, around
+3. _ex_ pect, out
+4. _in_ spect, into
+5. _per_ spective, through
+6. _pro_ spect, before
+7. _retro_ spect, backward
+8. spectat _or_, one who
+9. _sus_ pect, under
+10. spectacle
+11. spectacles
+
+1. The appearance of a thing as _viewed_ (looked _toward_ or at) by
+the eye or mind; as, a stern _aspect_; the southern _aspect_ of a
+house.
+
+2. _Looking around_ in all directions, as against danger or error. “Of
+all these circumstances, the slow, _circumspect_ eye of the master
+took cognizance one by one.”
+
+5. _Perspective._ That which is _seen through_ an opening or vista.
+The effect of distance upon the appearance of objects.
+
+9. _Suspect._ To _underlook_; to imagine or infer that appearances
+misrepresent; hence one who _suspects_ is inclined to _look beneath_
+the surface.
+
+10. _Spectacle._ Something exhibited to be _looked_ at, especially if
+it be held worthy of unusual notice.
+
+
+                            SEVENTH MONTH.
+
+#ory# = place where.
+
+1. _arm_ ory, arms
+2. _deposit_ ory, put away
+3. _dorm_ itory, sleep
+4. _fact_ ory, make
+5. _laborat_ ory, work
+6. _manufact_ ory, hand made
+7. _observ_ atory, observe
+8. _prepar_ atory, to make ready
+9. _reform_ atory, form again
+10. _terr_ itory, land
+
+1. An _armory_ is a _place where arms_ and other instruments of war
+are kept.
+
+2. A _depository_ is a _place where_ things are or may be _put away_
+for safe keeping.
+
+5. A _laboratory_ is, literally, a _place_ for _labor_; particularly a
+place for scientific experimentation.
+
+6. A _manufactory_ was formerly so called because it named a _place
+where_ things were _made_ by _hand_. The first part of the word is now
+generally omitted, and appropriately so, because a small part of the
+work in a factory is done by hand.
+
+10. _Territory_ is extent of _land_ belonging to or ruled by the
+government. Literally it means a _place where_ there is _land_.
+
+
+#ous# = having, consisting of, full of, pertaining to.
+
+1. _amphi bi_ ous, double + life
+2. _aque_ ous, water
+3. _bili_ ous, bile
+4. _clamor_ ous, to cry out
+5. _decidu_ ous, fall
+6. _furi_ ous, rage
+7. _greg_ arious, flock
+8. _hetero gene_ ous, other + kind
+9. _homo gene_ ous, like + kind
+10. _im per vi_ ous, no + through + way
+11. _numer_ ous, number
+12. _preci_ ous, price, value
+13. _pre coci_ ous, early + ripe
+14. _ponder_ ous, weigh
+15. _pre poster_ ous, before + after
+16. _viv_ acious, life
+
+1. _Living both_ on land and in water. “Seals of _amphibious_ nature,
+are either for the land or water.”
+
+2. _Pertaining to_, or containing _water_; as, an _aqueous_ vapor.
+
+3. A _state of_ ill health due to a disordered condition of the liver,
+the gland which secretes _bile_.
+
+4. _Consisting of_ loud and repeated _outcries_ or noise; as, a
+_clamorous_ crowd.
+
+5. The leaves of _deciduous_ trees _fall_ once a year.
+
+8. _Consisting_ of unlike elements or ingredients of different
+(_other_) _kinds_.
+
+13. _Having_ the mental faculties _prematurely_ developed; as, a
+_precocious_ child.
+
+15. Contrary to nature, reason, or common sense. Originally,
+_preposterous_ meant _having_ the _after_ part _before_.
+
+
+#ulent# = full of.
+
+1. _corp_ ulent, body
+2. _fraud_ ulent, fraud
+3. _op_ ulent, wealth
+4. _succ_ ulent, juice
+5. _esc_ ulent, food
+6. _vir_ ulent, poison
+
+1. A _corpulent_ person is one who has an excess of fat; hence,
+literally speaking, is _full of body_.
+
+4. _Succulent_ plants are _full of juice_; as, the stalk of the sugar
+cane.
+
+5. _Esculent_ plants are those suitable for _food_ (literally, _full
+of food_).
+
+“Every lover of that invaluable _esculent_ (the potato) has reason to
+remember with gratitude the settlers of Londonderry.”—_Whittier._
+
+
+#ure# = act or state of, that which.
+
+1. _capt_ ure, take
+2. _depart_ ure, from + part
+3. _en clos_ ure, within + shut
+4. _fixt_ ure, fasten
+5. _fract_ ure, break
+6. _gest_ ure, act, do
+7. _junct_ ure, join
+8. _manu fact_ ure, hand + make
+9. _overt_ ure, open
+10. _past_ ure, feed
+11. _pict_ ure, paint
+12. _pleas_ ure, please
+13 _post_ ure, place
+14. _pro ced_ ure, forward + go
+15. _rapt_ ure, carry away
+16. _script_ ure, write
+17. _signat_ ure, mark or sign
+18. _sut_ ure, sew
+19. _text_ ure, weave
+20. _verd_ ure, green
+
+
+#y# = state of being, full of, consisting or made of.
+
+1. bloody
+2. dewy
+3. dressy
+4. curly
+5. faulty
+6. filthy
+7. fleshy
+8. frosty
+9. fussy
+10. gaudy
+11. gloomy
+12. grassy
+13. guilty
+14. hardy
+15. hoary
+16. lofty
+17. marshy
+18. rainy
+19. rosy
+20. sandy
+21. shady
+22. spunky
+23. thirsty
+24. wealthy
+
+While the above words serve to illustrate the use of _y_ as a suffix,
+to analyze them would not be profitable. On account of their
+simplicity no illustrations are needed to show their use, and no
+definitions; in fact, there are no words simpler on which to base
+definitions.
+
+The eight words following, which end in _y_, can, however, be analyzed
+with profit:
+
+1. _an arch_ y, without + rule
+2. _a path_ y, without + feel
+3. _aut ops_ y, self + see
+4. _col loqu_ y, together + speak
+5. _ob loqu_ y, against + speak
+6. _poly gam_ y, many + marriage
+7. _sym path_ y, together + feel
+8. _sym phon_ y, together + sound
+
+
+#tort, tors# = twist, wring, wrest.
+
+1. _con_ tort, together
+2. _dis_ tort, aside
+3. _ex_ tort, out
+4. _re_ tort, back
+5. torch
+6. tor _ment_, that which
+7. tortoise
+8. tort _ure_, that which
+
+1. To _twist together_; to turn awry. “A form _contorted_ and
+misshapen from that which nature gave.”
+
+2. To _twist aside_; to twist out of shape; to wrest from the true
+meaning. “For gold the hireling judge _distorts_ the laws.”
+
+3. To _wring_ or wrest _out of_ or away from; to get by force or by
+taking unfair advantage. “'Till the injurious Romans did _extort_ this
+tribute from us, we were free.”
+
+4. To bend, _twist_ or turn _back_. A _retort_ is a short and pointed
+reply _turned back_ on an assailant. A _retort_ tube is one _twisted_
+or bent back at one end.
+
+5. The _torch_ is so called because the wick is _twisted_ like a rope.
+
+6. _Torment_ comes from _tormentum_, a machine (engine) for throwing
+stones to inflict _torture_.
+
+7. The _tortoise_ is so called because of its _twisted_ or crooked
+feet.
+
+8. _Wringing_ pain; anguish of body or mind. “In ancient Greece,
+_torture_ was never employed except in case of treason”.
+
+
+#tract# = draw.
+
+1. _abs_ tract, away
+2. _at_ tract, to
+3. _con_ tract, together
+4. _de_ tract, from
+5. _dis_ tract, apart
+6. _ex_ tract, out
+7. _pro_ tract, forward
+8. _re_ tract, back
+9. _re_ treat, back
+10. _sub_ tract, under
+11. trace
+12. tract _able_, capable of
+13. trail
+14. train
+
+1. To _draw away_; to consider apart. “In truth the object and
+sensation are the same thing and cannot be _abstracted_ from each
+other.”
+
+2. To _draw to_ or toward. A magnet _attracts_ iron filings.
+
+3. To _draw together_ or closer. Heat expands and cold _contracts_.
+
+4. To _draw_ away _from_. To take away a part of something, especially
+from one's credit. “Should I detract his worth, 'twould argue want of
+merit in myself.”
+
+5. To _draw apart_ or away. The attention is _distracted_ when it is
+_drawn apart_ from the thing in hand.
+
+6. To _draw out_, to withdraw. Honey is sometimes _extracted_ from the
+honeycomb and the comb replaced in the beehive.
+
+7. To _draw_ forward; to extend or prolong; as, “England desired not
+to _protract_ the war.”
+
+8. To _draw back_; to take back what has been said. When one finds he
+has said a hasty thing he would do well to _retract_ it.
+
+9. To _draw back_, as from an enemy. “Come, shepherd, let us make an
+honorable _retreat_.”
+
+10. To _draw_ away; as apart from the whole. Literally to _draw_ away
+from _under_, or in an underhanded way, as by stealth. The word is
+very seldom used literally.
+
+11. A _trace_ is one of the tugs or straps by which a vehicle is
+_drawn_.
+
+12. A _tractable_ child is one which can be easily led or _drawn_.
+
+13. _Trail_ means to _draw_ along, or what is _drawn_.
+
+14. A _train_ consists of cars _drawn_ by a locomotive.
+
+
+#ven, vent# = come.
+
+1. _ad_ vent, to
+2. _ad_ vent ure, upon
+3. _a_ venue, to
+4. _con_ vene, together
+5. _circum_ vent, around
+6. _e_ vent, out
+7. _inter_ vention, between
+8. _in_ vent, upon
+9. _re_ venue, back
+10. _pre_ vent, before
+
+1. A _coming_ or arrival of any important event or personage. The
+_advent_ of summer. An _Adventist_ is one who makes the second
+personal coming of Christ a special feature in his doctrine.
+
+2. An _adventure_ is a stirring experience, _come upon_, as it were,
+suddenly and unexpectedly.
+
+3. That which _comes to_ a certain place. Formerly an _avenue_ was a
+roadway bordered with trees which _comes to_ a residence.
+
+4. To _come together_. “The household fowls _convene_.”
+
+5. To _circumvent_ an individual is to gain an advantage over him in a
+secret and round about (_coming around_) way.
+
+6. The _outcome_ of an occurrence; as, “In that _event_ all will be
+right.” “Marriage is the principal _event_ for good or evil in all
+lives.”
+
+7. The act of _coming between_ persons or objects; especially
+interference with the acts of others.
+
+8. To _come upon_; to find out or discover.
+
+9. _Revenue_ is that which _comes back_, as from an investment; income
+from all forms of one's property.
+
+10. To stop or hinder from happening by means of previous measures.
+Originally _prevent_ meant to _come before_; as in Matt. xvii:25:
+“When Peter was come into the house, Jesus _prevented_ him.”
+
+
+#vers, vert# = turn.
+
+1. _ad_ verse, to (against)
+2. ad vers _ity_, state of
+3. _ad_ vert, to
+4. ad vert _ise_, act of
+5. _a_ vers ion, away
+6. _a_ vert, away
+7. _di_ verse, apart
+8. _di_ version, aside
+9. _di_ vorce, apart
+10. _in_ vert, into
+11. _per_ verse, thoroughly
+12. _re_ verse, back
+13. _trans_ verse, across
+14. _versat_ ile, capable of
+15. vers _ion_, that which
+16. vertex
+17. vertigo
+18. vortex
+
+1. _Turned against_; antagonistic. _Adverse_ winds. “Error is
+_adverse_ to human happiness.”
+
+2. _State of_ adverse fortune; a condition of calamity, distress, or
+unhappiness. “Ye have this day rejected your God, who himself saved
+you out of all _adversities_.”
+
+3. To _turn_ the mind or attention _to_; as, “I will only _advert_ to
+some leading points in the argument.”—_Emerson._
+
+4. To _advertise_ an article is to cause the public to _turn_
+attention _to_ it.
+
+5. A _turning away_ from. “Adhesion to vice and _aversion_ to
+goodness.”
+
+6. To _turn away_ or aside. “Till ardent prayer _averts_ the public
+woe.”
+
+7. _Diverse_ ways are different ways—they _turn apart_.
+
+8. The act of _turning aside_ from a course; as the _diversion_ of the
+mind from study.
+
+9. A judgment or decree dissolving marriage, and thus _turning_
+husband and wife _apart_ from each other.
+
+10. To _turn into_ another position; as, upside down, inside out, end
+for end, etc.
+
+11. A _perverse_ inclination is one _thoroughly_ wrong or _turned_
+from the right.
+
+12. To _turn back_; as to _reverse_ an engine.
+
+13. A _transverse_ beam is one _turned across_ others.
+
+14. _Capable of_ moving or _turning_ around; as a _versatile_ spindle;
+turning with ease from one thing to another; many sided; as, a
+_versatile_ writer.
+
+15. _That which_ is translated (or _turned_) from another language;
+as, the King James _version_ of the Bible.
+
+16. The highest point, peak, or summit. Literally the _turning_ point.
+
+17. A _turning_ or whirling around; dizziness or giddiness.
+
+    “That old _vertigo_ in his head
+     Will never leave him till he's dead.”
+
+18. A _whirl_pool. (_Vortex_ is another form of _vertex_.)
+
+
+                             EIGHTH MONTH.
+
+#ic# = pertaining to.
+
+1. _aqua_ tic, water
+2. _arc_ tic, bear
+3. _barbar_ ic, foreign; uncivilized
+4. _chron_ ic, time
+5. _civ_ ic, citizen
+6. _dom_ estic, house
+7. _epi dem_ ic, upon + people
+8. _erra_ tic, wander
+9. _Homer_ ic, Homer
+10. _luna_ tic, moon
+11. _lyr_ ic, lyre, harp
+12. _metal_ lic, metal
+13. _metr_ ic, measure
+14. _numer_ ic, number
+15. _op_ tic, eye
+16. _pan_ ic, Pan
+17. _phon_ ic, sound
+18. _publ_ ic, people
+19. _rust_ ic, country
+20. _techn_ ic, art, trade
+
+2. _Arctic_ means, literally, _pertaining to_ the northern
+constellations called the Great and Little _Bears_; hence pertaining
+to the north polar regions.
+
+8. _Erratic_ means _wandering_ from the proper or usual course in
+opinion or conduct.
+
+9. _Homeric_ means _relating to Homer_, the great epic poet of ancient
+Greece, or to the poetry which he wrote.
+
+10. A _lunatic_ is one who is periodically insane, with intervals of
+sanity (as if affected by the _moon_).
+
+11. _Lyric_ poetry is that which is adapted to the _lyre_ or harp; fit
+to be sung to an accompaniment.
+
+16. _Panic_ means sudden or groundless fright, such as was said to
+have been caused by _Pan_, the god of pastures and forests.
+
+
+#ise, (ize)# = make, do, cause.
+
+1. _ad vert_ ise, to + turn
+2. _critic_ ise, judge
+3. _familiar_ ize, family
+4. _fertil_ ize, bear, produce
+5. _leg_ alize, law
+6. _re cogn_ ize, again + know
+7. _sym path_ ize, with + feel
+8. _tan tal_ ize, Tantalus
+9. agonize
+10. brutalize
+11. civilize
+12. crystallize
+13. equalize
+14. generalize
+15. harmonize
+16. humanize
+17. idolize
+18. magnetize
+19. modernize
+20. naturalize
+21. organize
+22. realize
+23. systematize
+24. tyrannize
+
+1. A merchant when he _advertises_ goods hopes thereby to _cause_
+people to _turn_ their attention _to_ them.
+
+2. To _criticise_ is to (_make_) pass _judgment_ upon.
+
+3. To _familiarize_ means, literally, to _make_ as one of the
+_family_, to become intimate with.
+
+4. Ground is _fertilized_ when it is _caused_ to _produce_ more
+abundantly.
+
+5. Any conduct is _legalized_ when it is _made lawful_.
+
+6. We _recognize_ a person when we _know_ him _again_; as, one whom we
+have known before.
+
+7. To _sympathize_ is to _feel with_ another.
+
+8. _Tantalize_ is derived from Tantalus, a Phyrgian king who,
+according to Greek mythology, was punished in the lower world by being
+placed in a lake of pure water up to his chin, while there hung over
+him luscious fruit, the fruit and the water receding whenever he
+sought to satisfy his hunger or thirst. Hence tantalize means to
+tease or torment by presenting something desirable to the view and
+frustrating expectation by keeping it out of reach.
+
+Words 9 to 24 may be defined in a simple and satisfactory manner by
+using some meaning of the suffix _ize_ in the definition with the
+first part of the word; thus, _agonize_ means to _cause_ to have
+_agony_.
+
+
+#ist# = one who.
+
+1. _agri cultur_ ist, field + culture
+2. _an arch_ ist, without + rule
+3. _art_ ist, art
+4. _a the_ ist, without + god
+5. _botan_ ist, plant
+6. _de_ ist, god
+7. _dent_ ist, tooth
+8. _flor_ ist, flower
+9. _ge olog_ ist, earth + science
+10. _hypno_ tist, sleep
+11. _journ_ alist, day
+12. _jur_ ist, right
+13. _loy_ alist, law
+14. _oc_ ulist, eye
+15. _optim_ ist, best
+16. _pessim_ ist, worst
+17. _re viv_ alist, again + life
+18. _roy_ alist, king
+19. _sci_ entist, knowledge
+20. _somn ambul_ ist, sleep + walk
+
+4. An _atheist_ is _one who_ is _without_ belief in a personal _God_.
+
+6. A _deist_ is _one who_ believes in _God_ but denies revealed
+religion.
+
+15. An _optimist_ is _one who_ holds the opinion that all events are
+ordered for the _best_.
+
+16. A _pessimist_ is _one who_ has a disposition to take the least
+hopeful (_worst_) view of things; one who believes that the ultimate
+tendency of the world is toward evil and not good.
+
+
+#oid# = having the form of, shaped like.
+
+1. _aster_ oid, star
+2. _dent_ oid, tooth
+3. _ethm_ oid, sieve
+4. _spher_ oid, sphere
+5. _typh_ oid, cloud, stupor
+6. _variol_ oid, various
+
+
+#meter, metr# = measure.
+
+1. _anemo_ meter, wind
+2. _baro_ meter, weight
+3. _chrono_ meter, time
+4. _dia_ meter, across
+5. _gas_ ometer, gas
+6. _ge_ ometer, earth
+7. _hexa_ meter, six
+8. _hydro_ meter, water
+9. _lacto_ meter, milk
+10. metr _ic_, pertaining to
+11. _penta_ meter, five
+12. _peri_ meter, around
+13. _thermo_ meter, heat
+14. _tri gon_ ometry, three + angle
+
+1. The _anemometer_ is an instrument for _measuring_ the force and
+velocity of the _wind_.
+
+2. The _barometer measures_ the _weight_ of the atmosphere, and thus
+aids in determining the indications of the weather.
+
+3. A _chronometer_ is an instrument for _measuring time_.
+Specifically, it is a large and very accurate watch for use in
+astronomical observations.
+
+6. _Geometry_ literally means _earth measure_. It treats of the
+measurement of surfaces, and is therefore applied in the _measurement_
+of _land_.
+
+7. The _hexameter_ in poetry is a _measure_ having _six_ poetic feet
+to the line.
+
+8. The _hydrometer_ is used for _measuring_ the specific gravity of
+_water_ and other liquids.
+
+9. The _lactometer_ is used for _measuring_ the purity and richness of
+_milk_.
+
+10. The _metric_ system of weights and measures is one in which the
+meter is the unit of _measure_.
+
+12. The _perimeter_ is the _measure around_ a body or figure.
+
+14. _Trigonometry_ treats of _measurements_ based on the triangle
+(_three angles_).
+
+
+#phon# = sound.
+
+1. _eu_ phony, well
+2. phon _etic_, pertaining to
+3. phon _ic_, pertaining to
+4. phono _graph_, write
+5. _sym_ phony, with
+6. _tele_ phone, far
+
+
+#polis# = city.
+
+1. _acro_ polis, high, upper
+2. _Anna_ polis, Ann
+3. _Constantin_ ople, Constanine
+4. _Indiana_ polis, Indiana
+5. _metro_ polis, mother
+6. _Minne_ apolis, Minne
+7. police
+8. politics
+
+1. The _acropolis_ was the _upper_ part of a Grecian _city_. It
+commanded a view of the surrounding country.
+
+2. Named for Queen _Ann_.
+
+3. A contraction of Constantinopolis. Named for _Constantine_.
+
+4. _Indiana_ means, literally, the _land_ of the _Indians_.
+_Indianapolis_ means _city_ of _Indiana_.
+
+5. The _metropolis_ is the chief, or _mother city_, of the state or
+country.
+
+6. The _city_ of _Minne_ (haha).
+
+7. A _police_ force is a body of civil officers in a _city_ organized
+for its protection.
+
+8. _Politics_ is the science of government in state or _city_.
+
+
+#scop# = view.
+
+1. _horo_ scope, hour
+2. _kaleido_ scope, beautiful + form
+3. _micro_ scope, small
+4. _stereo_ scope, solid
+5. _tele_ scope, far
+
+1. The _horoscope_ is an instrument for _viewing_ the heavens at the
+_hour_ of one's birth, by which the astrologers professed to foretell
+the events of a person's life.
+
+2. The _kaleidoscope_ is an optical instrument in which an endless
+variety of _beautiful_ patterns or _forms_ may be _viewed_ by changing
+its position.
+
+4. The _stereoscope_ is an instrument, with two eye glasses, for
+giving to pictures the appearance of _solid_ forms as seen in nature.
+
+
+
+
+                               PART TWO
+
+                  Letters, Sounds, Syllables, Words,
+                   Principles of Pronunciation, and
+                          Rules of Spelling.
+
+
+                             SEVENTH YEAR.
+
+                            (First Month.)
+
+                         TERMS TO BE DEFINED.
+
+An ELEMENTARY SOUND is the simplest sound of spoken language.
+
+There are forty-four elementary sounds in the English language. As
+there are only twenty-six letters in the alphabet some letters
+represent more than one sound. Certain marks or distinguishing
+characters used with the letters to indicate the various sounds are
+called DIACRITICAL MARKS.
+
+PHONOTYPY is a method of representing each of the elementary sounds by
+a distinct printed character or letter.
+
+The VOCALS or TONICS are those elementary sounds made by an unmodified
+or uninterrupted tone of the voice; as ā, ĕ.
+
+The SUBVOCALS or SUBTONICS are those elementary sounds made by the
+tone of the voice modified by the organs of speech, making an
+undertone; as b, d, g, r.
+
+The ASPIRATES or ATONICS are those elementary sounds made by merely
+breathing modified by the organs of speech; sometimes called breath
+sounds; as p, t, s.
+
+
+                      TABLE OF ELEMENTARY SOUNDS.
+
+                   [From Swett's Normal Word Book.]
+
+
+                _I. Vocals._
+
+  +--------------+----------------------+
+  |   a            ā-le, āi-m
+  |   ä            ä-lms, ä-rt
+  |   a̤            a̤-ll, b-a̤-ll
+  |   ă            ă-n, m-ă-n
+  |   â            c̵-â-re, â-ir
+  |   ȧ            ȧ-sk, f-ȧ-st
+  |   ē            ē-ve, b-ē
+  |   ě            ě-nd, m-ě-n
+  |   ẽ            h-ẽ-r, ẽ-rr
+  |   ī, ȳ          ī-ce, b-ȳ
+  |   ĭ, y̆          ĭ-t, h-y̆-mn
+  |   ō            ō-ld, n-ō
+  |   ǒ            ǒ-n, n-ǒ-t
+  |   o̤, o͞o        m-o-ve, m-o͞o-n
+  |   ū            ū-se, m-ū-şe
+  |   ǔ            ǔ-p, b-ǔ-t
+  |   û            û-rge, b-û-rn
+  |   ụ, o͝o        f-ụ-ll, w-o͝o-l
+  |  oi, oy        oi-l, b-oy
+  |  ou, ow        ou-t, ow-l
+  +--------------+----------------------+
+
+
+                _II. Subvocals._
+
+  +----------+-----------------------+
+  | b          b-i-b, b-a-be
+  | d          d-i-d, d-ea-d
+  | ḡ          ḡ-i-ḡ, ḡ-a-ḡ
+  | j          j-ar, j-et
+  | l          l-u-ll, te-ll
+  | m          m-ai-m, c̵a-me
+  | n          n-u-n, n-o-ne
+  | ng, ṉ      ri-ng, i-ṉ-k
+  | r          r-oa-r, r-ea-r
+  | th         th-ese, wi-th
+  | v          val-ue, v-ain
+  | w          w-ell, w-eb
+  | y          y-es, y-et
+  | z          z-one, z-est
+  | zh, z      a-z´-ure, sei-z´-ure
+  +----------+-----------------------+
+
+
+                _III. Aspirates._
+
+  +--------------+-------------------------+
+  |  f           | f-i-fe, o-ff            |
+  |  h           | h-at, h-ome             |
+  |  k           | k-ite, k-ill            |
+  |  p           | p-i-pe, to-p            |
+  |  s           | s-un, s-ame             |
+  |  t           | t-en-t, t-ar-t          |
+  |  ch          | ch-ur-ch, ch-ild        |
+  |  sh          | sh-all, wi-sh           |
+  |  th          | th-in, th-ree           |
+  |  wh          | wh-ere, wh-y            |
+  +--------------+-------------------------+
+
+NOTE.—The foregoing forty-four sounds are those most employed in the
+English language. Some of these sounds are represented by other
+letters, as shown in the following:
+
+
+                     #IV.—Table of Equivalents.#
+
+                 [Dictionary Work—Metcalf & DeGarmo.]
+
+  CHAR.   EQUIV.
+   ē = ī
+   ẽ = ĩ = û
+   ā = e̱
+   â = ê
+   ô = a̤ (_broad a_)
+   o̤ = o͞o = ṳ
+   ĭ = y̆
+   ŭ = ȯ
+
+   ŏ = ạ
+   ọ = o͝o = ụ
+   ī = ȳ
+  oi = oy
+  ou = ow
+   ū = ew
+
+  CHAR.   EQUIV.
+   j = ġ (soft)
+   g = ḡ (hard)
+   z = ṣ̱
+   k = c̵ = c̵h
+   f = ph
+   s = ç (_cedilla c_)
+  sh = çh
+   ṉ = ng
+   x = ks
+   x̱ = gz
+
+COGNATE sounds are such as are produced by the same organs of speech
+in a similar position. The cognates are in pairs, as follows:
+_Vowels_: ā ĕ, ē ĭ, â ă, ä ȧ, a̤ ŏ, û ŭ, ōō o͝o; _consonants_: g´ k,
+b p, d t, j ch, th th, v f, z s.
+
+
+                           #[Second Month.]#
+
+                               LETTERS.
+
+A LETTER is a mark or character used to represent a sound,—usually an
+elementary sound.
+
+An ALPHABET is an orderly arrangement of all the letters of a
+language.
+
+The NUMBER OF LETTERS in the different alphabets vary, as follows:
+English 26, Arabic 28, French 25, German 26, Greek 24, Hebrew 22,
+Italian 21, Russian 33, Spanish 27, Sanskrit 49. The Chinese have no
+alphabet, but about 20,000 syllabic characters.
+
+The POWER OF A LETTER is the elementary sound for which it stands.
+
+LETTERS AS TO FORM are either script or print.
+
+There are many different STYLES OF LETTERS; as, Roman, Italic, Old
+English, and Script.
+
+As to SIZE letters are both capital and lower case.
+
+
+                           #[Third Month.]#
+
+                                VOWELS.
+
+A VOWEL sound is a free and uninterrupted sound of the voice. The
+vowel sounds are formed by the voice modified, but not interrupted, by
+the various positions of the tongue and lips.
+
+A CONSONANT sound is an articulate sound made by the obstructed voice,
+and which in utterance is usually combined with a vowel sound.
+
+There is no absolute division between vowels and consonants. Certain
+vowels are so open as to be only vowels, certain consonants are so
+close as to be only consonants; but there are yet others which have
+the value now of vowels and now of consonants; as, _i_, _u_, _w_, and
+_y_.
+
+“_Y_ as a vowel is a substitute for _i_, and _i_ is a consonant as a
+substitute for _y_. _W_ and _y_ are vowels: (1) When they end words or
+syllables, (2) when they are not followed by a vowel in the same
+syllable, (3) when they are followed by a silent vowel in the same
+syllable. _W_ and _y_ are consonants when they begin words or
+syllables and are immediately followed by a vowel. _I_ is a consonant
+when it represents the consonant _y_, as in _alien_. _U_ is a
+consonant when it represents the consonant _w_, as in _quick_,
+_language_.”—_Irish's Orthography._
+
+A DIPHTHONG is produced by running together two vowel sounds in the
+same syllable.
+
+A diphthong is PROPER if both the vowels are sounded; as _o_ and _i_
+in _boil_.
+
+An IMPROPER DIPHTHONG or DIGRAPH is merely a collection of two vowels
+in the same syllable, of which only one is sounded; as in _rain_,
+_teach_.
+
+The diphthongs in the following words are all that are in common use,
+viz.: t_oi_l, t_oy_, s_ou_nd, c_ow_, p_ea_l, _oi_l, _au_dible,
+_aw_ning, s_ay_, s_ei_ne, p_eo_ple, f_eu_d, ob_ey_, esch_ew_,
+bel_ie_ve, l_oa_n, h_oe_, h_ue_, j_ui_ce. Of these _oi_, _oy_, _ou_,
+and _ow_ are the only _proper_ diphthongs.
+
+A TRIPHTHONG is produced by running together three vowel sounds in the
+same syllable.
+
+A triphthong is PROPER if all three of the vowels are sounded. (But
+there are no proper triphthongs that I know of.)
+
+A triphthong is IMPROPER or is called a TRIGRAPH if one or two of the
+three vowels is silent; as in ad_ieu_, b_eau_ty.
+
+
+                           #[Fourth Month.]#
+
+                              CONSONANTS.
+
+CONSONANTS are divided on three different bases; as follows:
+
+I. MUTES and SEMIVOWELS.
+
+The mutes represent an explosive sound, and are so called because the
+mouth organs are closed just before the sound is uttered and the voice
+is momentarily _mute_.
+
+The four subvocals _b_, _d_, _j_, _g_, and their cognates, _p_, _t_,
+_ch_, and _k_, are generally classed as mutes. Pronounce them and see
+if they do not represent _explosive_ sounds.
+
+All other consonants are _semivowels_, and are pronounced with a
+_continuous_ sound. The sound may be continued so long as the breath
+lasts; but in the case of mutes the sound must stop with the explosive
+utterance.
+
+II. The SUBVOCALS and ASPIRATES are shown in the vertical columns of
+the table below. The subvocals are sometimes called _voice_ consonants
+and the aspirates _breath_ consonants. These are fit terms, for they
+indicate the basis of classification.
+
+III. LABIALS, LINGUA-DENTALS, and PALATALS constitute a classification
+of the consonants with respect to the place of formation. Bead the
+table from left to right. The _lips_ have most to do with making the
+labial sounds; the lingua-dentals are formed at the point of the
+_tongue_ in contact with the _teeth_, the palatals between the tongue
+and hard and soft _palate_.
+
+
+                 #Consonant Table.#
+
+          #Subvocals.#    #Aspirates.#
+          (Voice.)              (Breath.)
+Labials. {   b                        p
+(Lips.)  {   v                        f
+         {   w                        wh
+         {   m
+
+Lingua-  {   d                        t
+Dentals. {   z                        s
+(Point of{   th (sonant) (non-sonant) th
+tongue.) {   l
+         {   n
+         {   r
+
+Palatals.{   zh                       sh
+(Between {   j                        ch
+tongue   {   g                        k
+and      {   y
+palate.) {   h
+         {   ng
+
+
+
+
+                             EIGHTH YEAR.
+
+                           #[First Month.]#
+
+                              SYLLABLES.
+
+SYLLABLE literally means _taken together_.
+
+A SPOKEN SYLLABLE is an elementary sound, or a combination of
+elementary sounds, uttered _together_, or with a single impulse of the
+voice. It constitutes a word or a part of a word.
+
+A WRITTEN or printed syllable is a part of a word separated from the
+rest, and capable of pronunciation by a single impulse of the voice.
+
+As to where a word shall be divided in making it into syllables
+depends upon the PURPOSE OF SYLLABICATION. When the purpose is to show
+the derivation the division is made with reference to the component
+parts (roots, prefixes, and suffixes); but if the purpose is to
+indicate correct pronunciation, the result may be very different. For
+illustration, the following words are divided, first, to show
+derivation: abs-tract, bene-vol-ent, pre-de-cess-or, e-duc-ate,
+phon-o-typ-y, pro-gress, e-lig-ible; and, second, to indicate correct
+pronunciation: ab-stract, be-nev-o-lent, pred-e-ces-sor, ed-u-cate,
+pho-not-y-py, prog-ress, el-i-gi-ble.
+
+While in the illustrations here given the syllables formed for one
+purpose are very different from those formed for the other, yet in the
+majority of words the resulting syllables are the same whether divided
+for one purpose or for the other.
+
+In the United States the prevailing purpose of syllabication is to
+indicate pronunciation.
+
+The ULTIMATE syllable of a word is the last (_ultimus_ = last); the
+PENULTIMATE is next to the last (_pen_ = almost); the ANTEPENULTIMATE
+is the third from the last (literally, _before almost_ the _last_);
+the PREANTEPENULTIMATE is the fourth from the last (literally,
+_before_ the one that is _before_ the one _almost last_).
+
+
+                           #[Second Month.]#
+
+                                ACCENT.
+
+ACCENT is stress of voice on a particular syllable in pronouncing a
+word.
+
+In long words two, and sometimes three, syllables are accented. But
+one syllable is always accented more strongly than the others are. The
+stronger accent is called the PRIMARY accent, the weaker is called the
+SECONDARY. Thus, in _am´ mu ni´ tion_ the primary accent falls on the
+third syllable and the secondary on the first.
+
+The “PRINCIPLES” which govern the placing of accent are complicated.
+The International Dictionary says there are no principles by which to
+determine the accent in English. Another high authority says: “All
+attempts to assign rules for the place of the accent in English only
+serve to render the subject hopelessly intricate and confounded.”
+
+There are, however, certain _tendencies_ which mature pupils might
+profitably consider, but the limited scope of this book will not
+permit me to attempt to set them forth.
+
+In the words of the following list the accent changes with a change of
+meaning. When nouns or adjectives these words are accented on the
+first syllable; when verbs, on the second:
+
+abstract
+accent
+compound
+conflict
+concert
+contract
+contrast
+converse
+convict
+desert
+escort
+export
+ferment
+forecast
+frequent
+incense
+insult
+permit
+prefix
+present
+produce
+project
+record
+survey
+
+
+                           #[Third Month.]#
+
+                                WORDS.
+
+A WORD is a sign of an idea. It may be either spoken or written.
+
+A PRIMITIVE, OR ROOT, word is one not derived from any other word of
+the language; as, _fix_, _strike_, _man_.
+
+A DERIVATIVE is a word formed from a primitive by changing it
+internally, or by adding a prefix or suffix; as, _men_, _suffix_,
+_strikers_.
+
+A SIMPLE WORD is a single word. It may be either primitive or
+derivative.
+
+A COMPOUND WORD is a combination of two or more simple words; as,
+buck-saw, well-behaved, school-room.
+
+A word of one syllable is a _monosyllable_ (mono = one); of two
+syllables, a _dissyllable_ (dis = two); of three syllables, a
+_trisyllable_ (tri = three); of three or more syllables, a
+_polysyllable_ (poly = many).
+
+The ROOT of a word is its fundamental or elementary part which carries
+the primitive notion or significance with it, without prefix or
+suffix; as, _ge_ (earth), _graph_ (write), _vol_ (wish).
+
+A PREFIX is a significant syllable joined to the beginning of a word;
+as, _auto_graph, _circum_vent, _amphi_theater.
+
+A SUFFIX is a significant syllable joined to the end of a word; as,
+man _ly_, fert _ile_, ment _ion_.
+
+AFFIX is a general term for prefixes and suffixes; it may be applied
+to either or to both together.
+
+
+
+
+                             SEVENTH YEAR.
+
+
+                           #[Fifth Month.]#
+
+                            SILENT LETTERS.
+
+Silent letters have at least four uses:
+
+1. To modify sounds of other letters in the same syllable.
+
+Drop final silent _e_ from such words as the following and note the
+effect on the sound of the other vowel in the same syllable: _bare_,
+_pure_, _ripe_, _lame_.
+
+2. To indicate pronunciation.
+
+In the four words last given, for illustration, the pronunciation
+changes when the final silent _e_ is dropped.
+
+Another class of words ending in _ce_ and _ge_ retain the final silent
+_e_ on adding a suffix beginning with _a_ or _o_ to preserve the soft
+sound of _c_ and _g_, and with it the correct pronunciation of the
+word; as, _serviceable_, _noticeable_, _changeable_, _courageous_.
+
+3. To show the meaning of words.
+
+Illustrations: _clime_, _climb_, _plumb_, _belle_, _butt_, _dyeing_,
+_singeing_, _guilt_, _damn_.
+
+4. To show the derivation of words.
+
+Numerous illustrations are found in words derived from the Greek. In
+_chronic_, and _chronology_, the _h_ is silent, but serves to indicate
+that the root of those words is identical with the Greek root _chron_,
+which means _time_. Similarly the _g_ in _gnostic_, the _e_ in
+_eulogy_, _p_ in _pneumonia_, the _h_ in _chromatic_.
+
+In _honour_ and _favour_ _u_ is silent, and therefore a useless
+letter, so far as sound is concerned. The _u_ signifies that the word
+came to us through the French, instead of directly from the Latin. The
+question is, whether we shall go to the trouble of writing the extra
+letter in a large class of such words for the sake of the historical
+association. Perhaps one in a thousand would choose to do so, but
+others of us are more intent on saving time and ink. When the spelling
+reform idea becomes operative with English speaking people, a great
+many silent letters will go the way of the _u_ in _labour_, _favour_,
+and the like.
+
+The following are some of the numerous classes of silent letters
+together with the principle found to be operative through them.
+
+
+                           #[Sixth Month.]#
+
+“_E_ final is silent when preceded by another vowel in the same
+syllable.”
+
+change   sense     adverse    Chinese   condense
+brace    quite     bade       oppose    deceive
+force    scribe    burlesque  embrace   machine
+crease   measure   canine     emerge    endorse
+cease    absolve   caprice    examine   advise
+
+
+                          #[Seventh Month.]#
+
+“_B_ is usually silent before _t_ or after _m_ in the same syllable.”
+
+lamb   tomb      numb    debt     bomb
+comb   thumb     dumb    doubt    crumb
+limb   climb     plumb   redoubt  jamb
+
+
+                           #[Eighth Month.]#
+
+“_C_ is silent before _k_ in the same syllable. _C_ is silent in czar,
+victuals, muscle, corpuscle, indict, and Connecticut.”
+
+back    deck   lack    stack    Patrick
+buck    duck   hack    stick    reckon
+burdock chick  luck    suck     thicken
+clock   click  lick    beckon   Cossack
+
+
+
+
+                             EIGHTH YEAR.
+
+
+                           #[First Month.]#
+
+“_D_ is silent before _g_ in the same syllable.”
+
+edge    hedge   ridge    lodge     misjudge
+wedge   budge   bridge   sledge    judgment
+pledge  drudge  fudge    begrudge  lodgment
+
+
+                           #[Second Month.]#
+
+“_G_ is silent before _m_ or _n_ in the same syllable.”
+
+phlegm   malign     gnaw    campaign  gnash
+arraign  paradigm   feign   foreign   gnu
+benign   diaphragm  reign   design    seignior
+resign   gnat       assign  gnarl     consign
+
+
+                           #[Third Month.]#
+
+“_H_ is silent when it follows _g_ or _r_ in the same syllable.”
+
+ghost    myrrh       rheumatism  rhapsody  rhinoceros
+aghast   hemorrhage  rhyme       rhythm    Rhine
+gherkin  rhubarb     rhombus     rhomboid  catarrh
+
+
+                           #[Fourth Month.]#
+
+“_K_ is silent before _n_ in the same syllable.”
+
+knack   kneel    knot    knap sack  knob
+knave   knife    knock   knowledge  knucks
+knead   knight   knoll   knuckle    knarl
+knee    knit     know    knell      knout
+
+
+                           #[Fifth Month.]#
+
+“_N_ final after _l_ or _m_ is silent.”
+
+hymn    contemn    solemn    limn      damn
+kiln    condemn    column    autumn
+
+
+                           #[Sixth Month.]#
+
+“_T_ is silent before _ch_ in the same syllable.”
+
+hitch      pitch    match    notch       catch
+kitchen    botch    hatch    scratch     patch
+latch      Dutch    watch    Mitchell    satchel
+thatch     ditch    witch    batch       Scotch
+
+
+                          #[Seventh Month.]#
+
+“_W_ is silent before _r_ in the same syllable.”
+
+wrestle    wren      wrist     writing    wreak
+wrong      wrote     wreck     wrest      writ
+wring      wraith    awry      write      wrought
+wrath      wretch    wreath    wrinkle    wrangle
+
+
+                           #[Eighth Month.]#
+
+“_Gh_ is always silent after _i_ and, when not a substitute for _f_ or
+_k_, is also silent after _au_ and _ou_.”
+
+sight    plight    weigh      fraught     through
+light    wright    weight     caught      although
+fight    height    freight    thought     slaughter
+might    wight     aught      daughter    laughter
+
+
+
+
+                             SEVENTH YEAR.
+
+            PRINCIPLES OF PRONUNCIATION WITH ILLUSTRATIONS.
+
+
+                           #[Sixth Month.]#
+
+“_A_ constituting or ending an unaccented syllable is short Italian
+_a_.”
+
+again      America      banana    fatality    papa
+alas       amuse        canine    fatigue     parasol
+algebra    apparatus    China     lapel       pica
+alkali     area         data      massacre    sacrament
+amass      arena        drama     ornament    valise
+
+
+                          #[Seventh Month.]#
+
+“_E_ constituting or ending a syllable is long.”
+
+depot       memento      obedience    really        society
+event       museum       penal        recess        superior
+feline      nausea       precedence   resource      theater
+frequent    negro        precise      sacrilegious  theology
+mechanic    notoriety    pretense     secretary     veto
+
+
+                           #[Eighth Month.]#
+
+“_O_ constituting or ending a syllable is long.”
+
+broken       explosive   melodeon    poem       spoken
+chosen       gondola     melody      police     tobacco
+composition  licorice    open        potato     trophy
+coquet       location    opponent    promotion  zodiac
+cupola       locust      pantomime   proviso    zoölogy
+
+
+
+
+                             EIGHTH YEAR.
+
+
+                           #[Fourth Month.]#
+
+“_I_constituting or ending an unaccented syllable, not initial, is
+always short, and is usually short even in initial syllables, if
+unaccented.”
+
+divide    tirade       sentinel    fidelity    residence
+direct    intimate     continent   digest      levity
+finance   indivisible  defensible  hilarious   reticent
+imitate   equidistant  predicate   maritime    reticule
+piazza    nobility     finance     invitation  direction
+
+In the _initial_ syllables _i_, _bi_, _chi_, _cli_, _cri_, _pri_,
+_tri_, however, _i_ is generally _long_.
+
+idea        biology      climatic    primeval    tripod
+idle        Chinese      criterion   triangular  triune
+isothermal  chirography  biennial    binomial    priority
+
+
+                           #[Fifth Month.]#
+
+_E_ before terminal _n_ should always be silent in participles, and
+also in most other words.
+
+given   stolen   ridden   bidden   forsaken
+taken   proven   shaken   woven    gotten
+broken  driven   written  shaven   risen
+spoken  frozen   arisen   chidden  smitten
+fallen  hidden   beaten   eaten    stricken
+
+also
+
+heaven  oaken    happen   burden   leaven
+often   leaden   seven    garden   brazen
+widen   golden   even     eleven   christen
+
+But in the following words _e_ should be sounded:
+
+hyphen  chicken  marten   lichen   sudden
+linden  linen    gluten   mitten   aspen
+
+_E_ should also be sounded in any word (not a participle) in which
+terminal _en_ is immediately preceded by _l_, _m_, _n_, or _r_.
+
+women   Ellen    Helen    omen     pollen
+barren  linen    woolen   Allen    Warren
+
+
+                           #[Sixth Month.]#
+
+“_E_ before terminal _l_ should usually be sounded.”
+
+Abel    model    morsel   cancel   marvel
+level   travel   rebel    gravel   barrel
+nickel  apparel  towel    channel  kennel
+chapel  citadel  revel    Mabel    libel
+camel   laurel   bevel    funnel   parcel
+
+But in the following words and in their derivatives _e_ before
+terminal _l_ should not be sounded:
+
+easel   weasel   ravel    mantel   shekel
+navel   chattel  shrivel  drivel   snivel
+shovel  grovel   mussel   hazel    teasel
+
+
+                          #[Seventh Month.]#
+
+“In most words _i_ before terminal _l_ or _n_ should be sounded.”
+
+Latin    vigil    anvil    goblin    coffin
+cavil    cabin    council  rosin     origin
+javelin  pencil   axil     assassin  tranquil
+resin    bobbin   violin   peril     moccasin
+retail   satin    utensil  pistil    daffodil
+
+In the following words _i_ should not be sounded:
+
+devil    basin    evil     cousin    weevil     raisin
+
+
+                           #[Eighth Month.]#
+
+“_I_ accented in most words from the French has the sound of long
+_e_.”
+
+pique       quarantine  police   critique   unique
+machine     routine     ravine   regime     intrigue
+caprice     suite       valise   Bastile    magazine
+guillotine  fatigue     antique
+
+
+
+
+                             SEVENTH YEAR.
+
+
+                          RULES OF SPELLING.
+
+Many people think that rules of spelling are of no value, because they
+are hard to remember and because of numerous exceptions. This is
+certainly true of a great many such rules (and there are a great
+many); but three or four of these rules apply to so many words
+difficult to spell, and they have such a small number of exceptions
+that they are well worth while. Several hundred words are spelled
+according to the first rule given below. The rule itself is short, and
+all of the exceptions could be learned “for keeps” by a pupil in an
+hour. But _pupils must have drill in applying the rules_ or they may
+be able to repeat the rules perfectly and glibly and not be able to
+spell the words coming under them.
+
+Since the rule given for the work of the first month, seventh year,
+and that given for the second month, are counterparts, each of the
+other, I prefer to take them together. Knowing that “_silent final e
+is dropped when a suffix beginning with a vowel is added_”, we
+naturally infer its counterpart, viz.: “_Silent final e is retained
+when a suffix beginning with a consonant is added._”
+
+To bring about the necessary drill and insure attention to the
+application of the rule, I suggest that a class of pupils, reciting by
+turns, spell at least twenty-five words according to the following
+model. [The words are on the board in this form: love + able, care +
+less.]
+
+“The suffix _able_ begins with the vowel _a_; therefore when it is
+added to the word _love_ the final silent _e_ is dropped, and the word
+is spelled _lovable_.” Or,
+
+“The suffix _less_ begins with the consonant _l_; therefore, when it
+is added to the word _care_ the final silent _e_ is not dropped, and
+the word is spelled _careless_.”
+
+Words to be spelled according to this model should be mixed,—those in
+which the suffix to be added begins with a vowel mixed with those in
+which the suffix begins with a consonant. Exceptions ought to be
+thrown into the mixture, and when a pupil comes to an exception, he
+can proceed according to the model, concluding with, “but this word is
+an exception to the rule”.
+
+Fifty words are here given to illustrate this rule, but pupils who
+want to do thorough work should spell several such fifties.
+
+
+                           #[First Month.]#
+
+love—able        adventure—ous   decide—ing
+care—less        change—ing      ice—berg
+blame—able       extreme—ly      house—keeper
+achieve—ment     fickle—ness     idle—ness
+brake—man        fore—cast       excite—ment
+cure—able        compare—able    console—able
+discourage—ment  continue—ally   endure—ance
+prove—able       contrive—ance   amaze—ment
+move—able        guide—ance      fierce—ness
+acquire—ing      forgive—ness    peace—ful
+else—where       hate—ful        deface—ment
+enlarge—ment     believe—ing     disgrace—ful
+admire—able      converse—ed     blue—ish
+abide—ing        hedge—hog       lodge—ing
+advertise—ment   achieve—ing     amuse—ment
+eye—brow         hoarse—ness     dine—ing
+pursue—ing       argue—ing       revenge—ful
+
+
+                              EXCEPTIONS.
+
+Words ending in _ce_ and _ge_ retain the _e_ when a suffix beginning
+with _a_ or _o_ is added.
+
+changeable    challengeable  pronounceable
+exchangeable  peaceable      advantageous
+chargeable    serviceable    outrageous
+manageable    traceable      courageous
+marriageable  noticeable     vengeance
+
+
+                           OTHER EXCEPTIONS.
+
+hoeing   singeing  seer       nursling   truly
+shoeing  tingeing  seeing     loathsome  duty
+toeing   freeing   agreeable  awful      wisdom
+dyeing   fleeing   mileage    duly       wholly
+
+Five other exceptions, to be remembered together: argument, judgment,
+lodgment, abridgment, acknowledgment.
+
+The exceptions here given, which are practically all of the exceptions
+to this rule, should be reviewed until they cannot be forgotten. The
+value of the rule depends much on a thorough committal of the
+exceptions.
+
+
+                           #[Third Month.]#
+
+Rule II: “When a suffix is added to a word ending in _y_, preceded by
+a consonant, the _y_ is changed to _i_, unless the suffix begins with
+_i_.”
+
+Model for drill on this rule (supply + ed, display + ed are written on
+the board):
+
+“The _y_ in _supply_ is preceded by a consonant, therefore, when the
+suffix _ed_ is added the _y_ is changed to _i_ and the word is
+spelled, _supplied_.” Or,
+
+“The _y_ in display is preceded by a vowel, therefore when the suffix
+_ed_ is added the _y_ is not changed, and the word is spelled,
+_displayed_.”
+
+carry + ed    study + es    espy + ed     juicy + est
+hurry + es    destroy + ed  deny + ing    homely + est
+marry + ing   pity + ing    survey + ed   pity + ful
+decay + ed    pity + less   employ + ing  rally + es
+annoy + s     joy + less    noisy + est   pretty + est
+copy + ed     city + es     mighty + er   pity + able
+
+
+                              EXCEPTIONS.
+
+_y_ does not change before _'s_; as in
+
+la´dy's     en´e my's   ba´by's     coun´try's
+
+Other exceptions to the rule, or to what is inferred from it:
+
+staid (_or_ stayed) slain      dry´ly               la´dy like
+paid                dai´ly     dry ness             la dy bug
+laid                sly ly     (_but_, dri´er,      la dy ship
+said                sly ness   dri´est)             ba by hood
+saith               shy ly     shy ness             ba by house
+
+
+                     #[Fourth and Fifth Months.]#
+
+Rule III: “Monosyllables or words accented on the last syllable,
+ending in a single consonant, preceded by a single vowel, double the
+final consonant on receiving a suffix beginning with a vowel.” This
+rule carries with it the inference that the final consonant is not
+doubled unless these conditions are all complied with.
+
+Model for drill on this rule:
+
+“_Refer_ is not a monosyllable, but it is accented on the last
+syllable; it ends in a single consonant _r_, preceded by a single
+vowel _e_; therefore, on adding the suffix _ed_, beginning with the
+vowel _e_, the final consonant _r_ is doubled, and the word is
+spelled, _referred_.”
+
+refer + ed    gallop + ed    suspend + ed    suffer + ing
+omit + ed     abhor + ence   kidnap + ed     travel + ed
+cheat + ed    join + ing     admit + ing     rebel + ious
+flatter + ed  benefit + ed   differ + ence   fertil + izer
+prefer + ing  permit + ed    enamel + ed     quarrel + ing
+remit + ance  map + ing      drug + ist      brag + art
+heap + ing    connect + ing  emit + ed       unfit + ed
+confer + ing  offer + ed     conceal + ed    parallel + ed
+acquit + ed*  commit + ee    shelter + ed    stir + ing
+root + ed     squeal + ing   intermit + ent  equal + ed
+depend + ent  begin + er     cheer + ed      vigor + ous
+occur + ed    shovel + ed    forgot + en     regret + ed
+submit + ed   transmit + ed  drum + er       spin + ing
+
+* After _q_, _u_ is a consonant.
+
+
+                              EXCEPTIONS.
+
+The final consonant is not doubled when, in the derivative, the accent
+is thrown from the last syllable of the primitive; as, _re fer´_,
+_ref´er ence_.
+
+ref´er ence    def´er ence    ref er ee´
+pref er ence   in fer ence    ref´er a ble _or_
+con fer ence   pref er a ble   re fer´ri ble
+
+
+                           OTHER EXCEPTIONS.
+
+gas es         (but gassy)     tranquillity
+gas eous       humbug ging     trans fer able
+crystallize    humbug ged      ex cellence
+chagrined
+
+NOTE.—There is a large class of words ending in _l_, and accented on
+some other syllable than the last, in whose derivatives the _l_ is
+doubled by many writers; but it accords more with the analogy of the
+language not to double the _l_. Such words are the following: apparel,
+cancel, channel, cudgel, dishevel, drivel, duel, enamel, equal,
+gambol, grovel, jewel, libel, marshal, marvel, metal, model, panel,
+peril, quarrel.
+
+
+
+
+                     REFERENCE TABLE OF SUFFIXES.
+
+
+_able_, see ble
+_age_, that which, having
+_ain_, see ian
+_al_, pertaining to
+_an_, pertaining to, one who
+_ant_, one who, that which, quality of, condition of
+_ary_, one who, that which, place where, condition of, quality of,
+       pertaining to
+_ate_, act of, state of, shaped like
+_ble_, capable of, fit to be
+_cle_, little, that which
+_ed_,  condition of
+_ee_, one who
+_ence_, see ant
+_ent_, see ant
+_er_, one who, that which
+_es_, see er
+_et_, little
+_ful_, full of, having
+_fy_, to make
+_ial_, see al
+_ian_, one who
+_ible_, see ble
+_ic_, pertaining to
+_il_, see ile
+_ile_, capable of, quality of
+_ion_, act of, state of, that which
+_ious_, see ous
+_ish_, act of
+_is_, that which
+_ise_, see ize
+_ism_, state of, doctrine of
+_ist_, one who
+_ity_, that which, state of being, quality of
+_ive_, that which, quality of
+_ize_, act of
+_lent_, full of
+_less_, without
+_ly_, state of being
+_ment_, that which
+_oid_, form
+_or_, one who
+_ory_, see ary
+_ous_, full of, quality of, having
+_tic_, see ic
+_tude_, quality of
+_ty_, see ity
+_ure_, that which, act of
+_y_, that which
+
+
+
+
+                            INDEX TO ROOTS.
+
+
+This index is to be used as a cross-reference by means of which, words
+in different parts of the book having a common root may be associated.
+
+                    Page.
+
+act                11, 61
+ambl               15, 18, 82
+anim               25, 35
+*ann               11
+aqua               74, 80
+arch               28, 45, 82
+*art               12
+*aster             12
+*aud               13
+bi, be             9, 64, 65, 74
+brev               9, 39
+burse              13, 20
+*capt, caput       53
+*ced, cess         53
+*cent              54
+cept               14, 55
+*chron             46
+cep, cip           18, 50
+*civ               55
+clam, claim        20, 74
+clud, clus         16
+cogn               20, 56, 81
+*cord, card        17
+*corpus, corpor    17
+*cura, curo        18
+*curr              58
+cuspid             21, 35, 50
+cycl               21, 50, 64
+*dent              58
+*dict              58
+*doc, doct         59
+dors               26, 56
+dote               25, 63
+*duc               22
+dur                32, 33
+*fac, fec, fic     23
+femin              35, 71
+*fer, lat          24
+*fest              24
+fid                39, 51, 56, 67
+*fin               62
+*firm              62
+fix                19, 49, 60
+*flex, flect       62
+flor               39, 66, 82
+*flu               63
+*foli              26
+form               15, 25, 61, 73
+*fort              26
+*fract, frang      27
+*frater            27
+fresh              20, 40
+fuse               13, 59, 61
+fy                 70
+gam                21, 28, 45
+*ge                47
+gnost              59, 63
+gon                26, 83
+grad, gress        52, 54, 59, 60, 61
+*graph             47
+*grat, grac        65
+*greg              65
+hale               55, 56
+hypnot             45, 82
+itio, it           9, 55, 61
+*ject              66
+journ              49, 82
+junct              71, 75
+juven              20, 70
+laps               20, 51
+lect               51, 60, 71
+*leg               66
+*liber             30
+*liter             31
+loc                13, 40
+*log, logy         48
+loqu               51, 57, 59, 76
+luc                39, 61
+luna               60, 80
+lut, luv           9, 50
+*manu              31
+mar                61, 71
+*mater             32
+matur              19, 56
+*ment              68
+meridi             50, 57
+*meter             83
+mingle             14, 51
+*mit               69
+moni               19, 49
+mort               39, 56, 57
+mot                40, 51, 59, 71
+mut                32, 51, 56, 61
+nat                40, 56, 66
+nomi               21, 28, 50, 66
+*norm              69
+nov                20, 56
+numer              38, 74
+opo, opt           29, 44, 64, 76, 80
+*pater             69
+path               25, 29, 30, 45, 63, 76, 81
+*ped, pod          36
+*pel, puls         35
+*pend, pens        35
+*phon              83
+ple, plen          20, 40
+*polis             84
+*pon, pos          37
+*port              72
+preci              52, 74
+roy                63, 66, 82
+*rupt              72
+sal                34, 71
+scend              52, 61
+*scop              84
+*scrib, scrip      72
+secu               15, 40
+sect               13, 14, 21, 50, 56, 71
+soci               25, 32
+solv               9, 68
+son                25, 68
+*spec              73
+sta, sist          11, 15, 57, 60, 71
+struct             20, 57
+surrect            20, 71
+*tang, tact        41
+*tempor            41
+*ten, tain         42
+*terr              43
+thesis             25, 29, 64
+*tors, tort        76
+*tract             77
+trude              56, 57, 59
+une                21, 39
+use, uti           9, 32, 39
+vade               15, 56
+*ven               78
+*vers, vert        79
+via, vi            15, 21, 56, 74
+vir                21, 70
+viv                39, 70, 74, 82
+vol                10, 67
+zoo                48, 64
+
+    * Given in the Illinois State Course of Study.
+
+
+
+
+                          INDEX TO PREFIXES.
+
+
+                   Page.
+
+a (an)              63
+a, ab, abs          9
+ad (ac, etc.)       49
+ambi, amphi         9
+ante                50
+anti                25
+auto                64
+bene                10
+bi                  50
+circum              10
+con (col, etc.)     51
+contra              11
+de                  52
+dia                 26
+dis                 13
+en (on)             26
+epi                 64
+ex (e, ec)          55
+extra               14
+in (im)             56
+inter               14
+micro               65
+non                 15
+mono                28
+ob (op)             57
+para                29
+per                 15
+peri                29
+post                57
+pre                 18
+pro                 59
+re                  20
+retro               60
+se                  60
+semi                20
+sub (suc, etc.)     60
+super               20
+syn (sym)           29
+tele                30
+trans               61
+tri                 21
+uni                 25
+vice                63
+
+
+
+
+                          INDEX TO SUFFIXES.
+
+
+                   Page
+
+able                32
+ac                  44
+aceous              66
+acy                 33
+al                  66
+an                  33
+ance                68
+ary                 34
+ate                 35
+ence                67
+ent                 68
+fy                  70
+ic                  38, 80
+ics                 44
+id                  39
+ile                 70
+ine                 71
+ion                 71
+ise                 81
+ist                 82
+ism                 45
+ite                 71
+ity                 39
+ive                 40
+ment                40
+oid                 82
+ory                 73
+ous                 74
+ulent               75
+ure                 75
+y                   45, 75
+
+
+
+
+                               CONTENTS.
+
+
+Seventh Year.
+
+
+First Month.                                Page.
+  Word Analysis                             9-13
+  Elementary Sounds                         85
+  Rule of Spelling                          100
+
+Second Month.
+  Word Analysis                             13-18
+  Letters, Alphabet, etc.                   87
+  Rule of Spelling                          100
+
+Third Month.
+  Word Analysis                             18-24
+  Vowels                                    88
+  Rule of Spelling                          101
+
+Fourth Month.
+  Word Analysis                             25-28
+  Consonants                                89
+  Rule of Spelling                          102
+
+Fifth Month.
+  Word Analysis                             28-32
+  Silent Letters—Principle                  93
+  Rule of Spelling                          102
+
+Sixth Month.
+  Word Analysis                             32-38
+  Silent Letters—Principle                  94
+  Principle of Pronunciation                96
+
+Seventh Month.
+  Word Analysis                             38-43
+  Silent Letters—Principle                  94
+  Principle of Pronunciation                97
+
+Eighth Month.
+  Word Analysis                             44-48
+  Silent Letters—Principle                  95
+  Principle of Pronunciation                97
+
+
+Eighth Year.
+
+
+First Month.
+  Word Analysis                             49-55
+  Syllables                                 90
+  Silent Letters—Principle                  95
+
+Second Month.
+  Word Analysis                             55-59
+  Accent                                    91
+  Silent Letters—Principle                  95
+
+Third Month.
+  Word Analysis                             59-63
+  Words                                     92
+  Silent Letters—Principle                  95
+
+Fourth Month.
+  Word Analysis                             63-66
+  Silent Letters—Principle                  95
+  Principle of Pronunciation                97
+
+Fifth Month.
+  Word Analysis                             66-70
+  Silent Letters—Principle                  96
+  Principle of Pronunciation                98
+
+Sixth Month.
+  Word Analysis                             70-73
+  Silent Letters—Principle                  96
+  Principle of Pronunciation                98
+
+Seventh Month.
+  Word Analysis                             73-80
+  Silent Letters—Principle                  96
+  Principle of Pronunciation                99
+
+Eighth Month.
+  Word Analysis                             80-84
+  Silent Letters—Principle                  96
+  Principle of Pronunciation                99
+
+Reference Table of Suffixes                 105
+
+Index to Roots, Prefixes, and Suffixes      106-107
+
+
+
+
+
+End of the Project Gutenberg EBook of Orthography, by Elmer W. Cavins
+
